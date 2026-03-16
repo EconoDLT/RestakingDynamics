@@ -1,19 +1,19 @@
 # RestakingDynamics
 
 
-# Multi-Chain Lending
-**DeFi, Lending Protocols, Risk-Management Models, and Cross-Chain Asset Transfers across 9 EVM Blockchains with 3 Different Network Architectures**
+# Financial Dynamics and Interconnected Risk of Liquid Restaking
+**DeFi, Restaking Protocols, and Layered Risks across Interconnected Protocols and Blockchains**
 
-This repository contains the collected data, the R code used, further explanations and clarifications for the research paper that extends automated risk management models of on-chain lending protocols, with cross-chain components and variables.
+This repository contains the collected data, the R code used, further explanations and clarifications for the research paper that analyzes the dynamics of the liquid restaking market.
 
-**Required Skills/Knowledge:** Distributed Systems, Econometrics, Financial Modelling, Collateralization, Debt Market.
+**Required Skills/Knowledge:** Distributed Systems, Econometrics, Financial Modelling, Crypto-Economic Security (Part of Network Security for Blockchains), Risk Analysis, Attack Simulation.
 
 ---
 
 ## Repository Structure
 
 ```
-MultiChainLending/
+RestakingDynamics/
 │
 ├── README.md
 │
