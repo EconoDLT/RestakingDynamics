@@ -18,10 +18,9 @@ RestakingDynamics/
 │   └── restaking_analysis.R
 │
 └── data/
-    └── processed_data/             # This file is required to run the script
-    │   └── restaking_processed_data.xlsx
-    └── raw_data/                   # This folder includes multiple raw data files
-                                    # Free to use as long as the data source is stated
+    └── raw_data/                           # This folder includes multiple raw data files
+    └── processed_data/                     # This file is required to run the script
+        └── restaking_processed_data.xlsx
 ```
 
 ---
