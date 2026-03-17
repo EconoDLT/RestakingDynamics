@@ -15,18 +15,12 @@ RestakingDynamics/
 ├── README.md
 │
 ├── analysis_code/
-│   └── lending_analysis.R
-│
-├── protocol_data_availability/
-│   └── protocol_availability.png   # The list of protocols involved in the data
+│   └── restaking_analysis.R
 │
 └── data/
-    └── processed_data/             # These files are required to run the script
-    │   └── ethereum_lending.csv
-    │   └── L2_lending.csv
-    │   └── altL1_lending.csv
-    │   └── aggregated_lending.csv
-    └── raw_data/                   # This folder includes a lot of raw data files
+    └── processed_data/             # This file is required to run the script
+    │   └── restaking_processed_data.xlsx
+    └── raw_data/                   # This folder includes multiple raw data files
                                     # Free to use as long as the data source is stated
 ```
 
