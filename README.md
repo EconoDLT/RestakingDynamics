@@ -34,11 +34,15 @@ RestakingDynamics/
 
 ## 1 — Code
 
-### `lending_analysis.R`
+### `restaking_analysis.R`
 
 The script is written in R. Fundamental functions are:
-- `plm()` for the panel data (fixed effects) regression, and
-- `lm()` for the OLS regressions.
+- `lm()` for OLS regression.
+- `VAR()` and `causality()` for Granger-causality test.
+- `randomForest()`, `importance()` and `varImpPlot()` for random forest feature importance test.
+- `anova()` for Chow‑type structural break test
+- `residuals()` to see the regression residuals.
+- `vif()` to see the variance inflation factor, to avoid multicollinearity.
 
 ---
 
