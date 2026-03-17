@@ -1,0 +1,3898 @@
+{
+  "data": {
+    "financialsDailySnapshots": [
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710266357",
+        "totalValueLockedUSD": "0"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710288131",
+        "totalValueLockedUSD": "569184.7732239411499517842851388417"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710374449",
+        "totalValueLockedUSD": "1138612.511889997929105792928363823"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710460805",
+        "totalValueLockedUSD": "1719223.828254497324215840135270666"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710547303",
+        "totalValueLockedUSD": "3198125.255084274936312220387584466"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710633925",
+        "totalValueLockedUSD": "7132369.421105576658533391930786907"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710720493",
+        "totalValueLockedUSD": "7630301.439565737333203083238174718"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710806471",
+        "totalValueLockedUSD": "7475280.856097323298429586082689162"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710893347",
+        "totalValueLockedUSD": "6914009.146752097503240983054592691"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1710979493",
+        "totalValueLockedUSD": "10349368.99614415252611199703095017"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711065899",
+        "totalValueLockedUSD": "16864560.29479914402785254622206592"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711152059",
+        "totalValueLockedUSD": "19485904.40600507369039458185701028"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711238403",
+        "totalValueLockedUSD": "24877723.74100836088767583768120031"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711324801",
+        "totalValueLockedUSD": "27851324.31895848330043168548878777"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711411213",
+        "totalValueLockedUSD": "36521512.28679722917295020133584782"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711497619",
+        "totalValueLockedUSD": "51869177.89868081491194316440847326"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711584009",
+        "totalValueLockedUSD": "58098784.26595054998877821094148067"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711670401",
+        "totalValueLockedUSD": "63953282.43432753788601031061960176"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711756807",
+        "totalValueLockedUSD": "74638404.7369602990802847389438802"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711843267",
+        "totalValueLockedUSD": "84593731.55119998523196165329607977"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1711929621",
+        "totalValueLockedUSD": "98748905.15829916589505510143503851"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712016021",
+        "totalValueLockedUSD": "102504475.8885635650383605692241067"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712102491",
+        "totalValueLockedUSD": "109606062.3516495592041204837291928"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712188805",
+        "totalValueLockedUSD": "119939215.325585010127515311247898"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712275207",
+        "totalValueLockedUSD": "125591621.6865831808718799762248151"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712361675",
+        "totalValueLockedUSD": "130903424.7755777657631339117890112"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712448031",
+        "totalValueLockedUSD": "139288098.4698499272819662232727987"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712534401",
+        "totalValueLockedUSD": "151058756.7964979096015062841360232"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712620803",
+        "totalValueLockedUSD": "173881922.9869332189697608893068498"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712707273",
+        "totalValueLockedUSD": "175115000.9802279633473871443630557"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712793741",
+        "totalValueLockedUSD": "182163034.9873744810912032463730818"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712880005",
+        "totalValueLockedUSD": "182233460.8123279613601704425096797"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712966415",
+        "totalValueLockedUSD": "171706801.0066744468086517640749614"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713052853",
+        "totalValueLockedUSD": "162985780.8297589224668399363057876"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713139217",
+        "totalValueLockedUSD": "172331773.2612970909074228292905912"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713225675",
+        "totalValueLockedUSD": "172229029.5088641461756785478839977"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713312079",
+        "totalValueLockedUSD": "171680022.7368852855451054672535728"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713398413",
+        "totalValueLockedUSD": "167437011.0923797016939829499556787"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713484993",
+        "totalValueLockedUSD": "173171113.9670713517619786952419396"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713571245",
+        "totalValueLockedUSD": "175315621.0463827185052048073450139"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713657661",
+        "totalValueLockedUSD": "181291150.2130879223908471483600013"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713744027",
+        "totalValueLockedUSD": "185487406.6298121700034713004389177"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713830445",
+        "totalValueLockedUSD": "188583155.3501645705253662499160379"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713916837",
+        "totalValueLockedUSD": "192547324.5024751969788934041411414"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714003201",
+        "totalValueLockedUSD": "212067931.8668684107708076265931043"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714089619",
+        "totalValueLockedUSD": "217245686.7769069461909389778303828"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714176005",
+        "totalValueLockedUSD": "224838432.869167925524649734748237"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714262407",
+        "totalValueLockedUSD": "242270015.8620085142880328638241268"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714348977",
+        "totalValueLockedUSD": "257532044.5366305907538062627424978"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714435451",
+        "totalValueLockedUSD": "255752308.9060475253453641116143971"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714521627",
+        "totalValueLockedUSD": "244390784.3534794943034770739224253"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714608057",
+        "totalValueLockedUSD": "244251703.5748896345616992623735631"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714694457",
+        "totalValueLockedUSD": "246642216.9018131602303676710840116"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714780849",
+        "totalValueLockedUSD": "256488610.5611533362869540597581567"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714867225",
+        "totalValueLockedUSD": "257255566.3892412667885963287077812"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714953643",
+        "totalValueLockedUSD": "258975224.3095375770345412865586311"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715040001",
+        "totalValueLockedUSD": "253711921.0940513062758411096357811"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715126419",
+        "totalValueLockedUSD": "250483003.3948521167577290737597295"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715212839",
+        "totalValueLockedUSD": "248642746.6983821551545386718785203"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715299239",
+        "totalValueLockedUSD": "253361422.3506561782091554370847942"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715385601",
+        "totalValueLockedUSD": "244758549.1059344720759180581655403"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715472123",
+        "totalValueLockedUSD": "244572121.3738076718365577811107772"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715558763",
+        "totalValueLockedUSD": "246617366.9873717283896639437372223"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715644887",
+        "totalValueLockedUSD": "247626465.7057867209812418480939011"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715731481",
+        "totalValueLockedUSD": "243172265.6827944393956939835589997"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715817625",
+        "totalValueLockedUSD": "253900047.1812805193907497212905712"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715904137",
+        "totalValueLockedUSD": "247529686.5307223325437665057665547"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715990713",
+        "totalValueLockedUSD": "259031527.8055885111480191003214786"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716076977",
+        "totalValueLockedUSD": "260672360.1333914304019312188318785"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716163243",
+        "totalValueLockedUSD": "257137494.8069601126743053971994275"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716249633",
+        "totalValueLockedUSD": "304019022.0480198212472785365119353"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716336145",
+        "totalValueLockedUSD": "317135597.875761090473185053847373"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716422531",
+        "totalValueLockedUSD": "313837339.0990572357298005597864717"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716508909",
+        "totalValueLockedUSD": "315803043.2704883847298546527305817"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716595571",
+        "totalValueLockedUSD": "312614823.9409816595138929987601917"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716681629",
+        "totalValueLockedUSD": "314088492.3398506721838528013192685"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716768007",
+        "totalValueLockedUSD": "321045838.3622497772448395499053372"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716854533",
+        "totalValueLockedUSD": "326665997.9647658980756367125475427"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716940981",
+        "totalValueLockedUSD": "323200345.9181615746355949415479454"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717027245",
+        "totalValueLockedUSD": "316972210.2144779509684814847183383"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717113607",
+        "totalValueLockedUSD": "314740451.2801202308140639865166864"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717200891",
+        "totalValueLockedUSD": "315301178.6524821952131964539617585"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717286565",
+        "totalValueLockedUSD": "320209837.1855998344698149119783068"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717372837",
+        "totalValueLockedUSD": "318395353.7921411378275761892988367"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717459273",
+        "totalValueLockedUSD": "317149669.507511371641298282572088"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717545605",
+        "totalValueLockedUSD": "319512232.1847290857407293989951472"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717632887",
+        "totalValueLockedUSD": "323852876.6536373392964703578864726"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717718407",
+        "totalValueLockedUSD": "319735108.6989597400606528473328672"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717804803",
+        "totalValueLockedUSD": "311090014.5811978144584710086427645"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717891243",
+        "totalValueLockedUSD": "310447527.7277612710968536961061543"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717977615",
+        "totalValueLockedUSD": "312151004.0776362503772023124714771"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718064125",
+        "totalValueLockedUSD": "309970040.4793316956370543699449544"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718150453",
+        "totalValueLockedUSD": "295914961.128402853403271884325758"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718236891",
+        "totalValueLockedUSD": "300710954.3857354555453124003614232"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718323205",
+        "totalValueLockedUSD": "293756436.4826745989601393696201112"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718409607",
+        "totalValueLockedUSD": "294665688.8741692546947786193728549"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718496021",
+        "totalValueLockedUSD": "300856201.5368518508924595536196909"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718582403",
+        "totalValueLockedUSD": "306209178.7303234880388255328733665"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718668807",
+        "totalValueLockedUSD": "298552329.7890767871373010407736867"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718755205",
+        "totalValueLockedUSD": "293489007.1127811704419896122265872"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718841601",
+        "totalValueLockedUSD": "292873131.5071139237412415557436806"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718928011",
+        "totalValueLockedUSD": "277981470.1649936272985917511044102"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719014415",
+        "totalValueLockedUSD": "253161813.0169588591052568223587731"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719100833",
+        "totalValueLockedUSD": "234610634.2897661430913522275890068"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719187219",
+        "totalValueLockedUSD": "217893516.7498837858270546465213596"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719273607",
+        "totalValueLockedUSD": "194970240.5574684484517118060996029"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719360011",
+        "totalValueLockedUSD": "183015842.9172916906340807546295917"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719446415",
+        "totalValueLockedUSD": "155645156.2565059689740587786985547"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719532823",
+        "totalValueLockedUSD": "139502024.1897817211197973390951992"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719619239",
+        "totalValueLockedUSD": "117391227.9027690254219203862842091"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719705665",
+        "totalValueLockedUSD": "111142190.9945729619272595629033043"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719792027",
+        "totalValueLockedUSD": "108441273.0433553724500239696811132"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719878473",
+        "totalValueLockedUSD": "102477567.4417140216073122353482624"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719964843",
+        "totalValueLockedUSD": "86626231.89682048653561133071959698"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720051215",
+        "totalValueLockedUSD": "79719625.78244649455939646148481608"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720137647",
+        "totalValueLockedUSD": "73630558.19897743832783025479301873"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720224013",
+        "totalValueLockedUSD": "69879776.82551175093215631281442571"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720310409",
+        "totalValueLockedUSD": "67281614.87855999500903952586247628"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720396899",
+        "totalValueLockedUSD": "63144461.97333598671153296133959177"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720483221",
+        "totalValueLockedUSD": "60707883.58196451587361189245643608"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720569711",
+        "totalValueLockedUSD": "56521946.68551655372157209475702126"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720656511",
+        "totalValueLockedUSD": "56793385.05026371766157185092312744"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720742437",
+        "totalValueLockedUSD": "57333861.00075859056061070197590306"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720828807",
+        "totalValueLockedUSD": "55684524.37988558139388652275518364"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720915387",
+        "totalValueLockedUSD": "56163587.78927560551610942596161816"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721001891",
+        "totalValueLockedUSD": "55392245.04687379125507037095594762"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721088061",
+        "totalValueLockedUSD": "57481503.98799517422378054389387946"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721174579",
+        "totalValueLockedUSD": "56435398.10130034841516737572877551"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721260935",
+        "totalValueLockedUSD": "55398545.68327062099016418306388723"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721347381",
+        "totalValueLockedUSD": "55672360.76568432114948398695161481"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721433601",
+        "totalValueLockedUSD": "56826375.05724621135298681319170434"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721520057",
+        "totalValueLockedUSD": "50662117.55645607900329921375777931"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721606473",
+        "totalValueLockedUSD": "49722574.38219351547075574122694304"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721692811",
+        "totalValueLockedUSD": "47562269.81622914447416644837679887"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721779627",
+        "totalValueLockedUSD": "47808572.80619960207348186345830726"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721865623",
+        "totalValueLockedUSD": "39151577.92284185130920969594728714"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721952185",
+        "totalValueLockedUSD": "30094806.75343740028311553617684177"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722038493",
+        "totalValueLockedUSD": "31054852.18908399720511544273204892"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722124835",
+        "totalValueLockedUSD": "29734247.36539178411992579586063135"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722211821",
+        "totalValueLockedUSD": "29503325.37818521739510666427530623"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722297611",
+        "totalValueLockedUSD": "29913400.78946354388023865174613272"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722384037",
+        "totalValueLockedUSD": "29701901.99447367280180296252079672"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722470405",
+        "totalValueLockedUSD": "29246259.14753173828395207755743938"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722557019",
+        "totalValueLockedUSD": "28777111.82937687985215450039825463"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722643221",
+        "totalValueLockedUSD": "24988962.78706680661624517122307861"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722730569",
+        "totalValueLockedUSD": "24128326.78393250532328943179880905"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722816007",
+        "totalValueLockedUSD": "21421376.74031216561248996561042251"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722902425",
+        "totalValueLockedUSD": "17872931.24368257935976277350118447"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722988973",
+        "totalValueLockedUSD": "18197642.98352908138013874087836879"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723075287",
+        "totalValueLockedUSD": "17042393.88574556618725145055982272"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723161737",
+        "totalValueLockedUSD": "19296835.04940742863842017445770964"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723248061",
+        "totalValueLockedUSD": "18812989.10438365889181193577078664"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723334455",
+        "totalValueLockedUSD": "18813893.56996248456436593601101155"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723421483",
+        "totalValueLockedUSD": "18293894.93143627445492711647806637"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723507227",
+        "totalValueLockedUSD": "18891797.69920831358739462143600933"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723593625",
+        "totalValueLockedUSD": "17980036.18309793586144252184651369"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723680059",
+        "totalValueLockedUSD": "17497937.00574120604795082486449586"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723766485",
+        "totalValueLockedUSD": "16896263.93879749430717481012994671"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723852807",
+        "totalValueLockedUSD": "16999637.62420925320981818264772576"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723940619",
+        "totalValueLockedUSD": "17054987.01469502266470008664425791"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724025707",
+        "totalValueLockedUSD": "17116064.74035599389954993690734592"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724112147",
+        "totalValueLockedUSD": "17084206.93406600282226536556111171"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724198413",
+        "totalValueLockedUSD": "16355262.04001536786563517877504408"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724284905",
+        "totalValueLockedUSD": "16544334.62617753936753139742473113"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724371217",
+        "totalValueLockedUSD": "16394126.0196900173306178207584882"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724458145",
+        "totalValueLockedUSD": "17288772.75999704300207324006422208"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724544015",
+        "totalValueLockedUSD": "17237364.31778410786303570574409796"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724630463",
+        "totalValueLockedUSD": "17209738.78341389818333078879169699"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724717015",
+        "totalValueLockedUSD": "16513902.98289784955522842119020444"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724803587",
+        "totalValueLockedUSD": "15246996.65744504322558904882563506"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724889779",
+        "totalValueLockedUSD": "15023317.4474102027692939711904051"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724979535",
+        "totalValueLockedUSD": "14992383.68293028710643948815057922"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725063393",
+        "totalValueLockedUSD": "14889047.31692105558403012483648611"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725149887",
+        "totalValueLockedUSD": "14779244.18492940236247864171246023"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725236185",
+        "totalValueLockedUSD": "14121741.77215704674793766447393884"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725321665",
+        "totalValueLockedUSD": "14591660.76633766882887069551032677"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725408595",
+        "totalValueLockedUSD": "13892520.97395610616158808794841817"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725494997",
+        "totalValueLockedUSD": "14014556.08180032373241571279272572"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725580969",
+        "totalValueLockedUSD": "13522509.50423685525434678987354896"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725667841",
+        "totalValueLockedUSD": "12765208.84387529666264976311543911"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725755021",
+        "totalValueLockedUSD": "13016816.90629536290564089226041037"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725842395",
+        "totalValueLockedUSD": "13186698.61035524889096101502875543"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725926745",
+        "totalValueLockedUSD": "13418800.83342618260063745288437949"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726015341",
+        "totalValueLockedUSD": "13546387.72951025271125803077296587"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726100055",
+        "totalValueLockedUSD": "13148017.42028626214932194398063326"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726186757",
+        "totalValueLockedUSD": "12991410.09640745740739481618542863"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726274089",
+        "totalValueLockedUSD": "13399020.20869879675072793397178054"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726359377",
+        "totalValueLockedUSD": "13223038.89175618992508683644190326"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726444879",
+        "totalValueLockedUSD": "12674721.02338240953891719793629361"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726532077",
+        "totalValueLockedUSD": "12498846.45951829636966501919235833"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726617841",
+        "totalValueLockedUSD": "12637711.68216653497909412038661247"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726704113",
+        "totalValueLockedUSD": "12693884.37345051528545123625633125"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726790605",
+        "totalValueLockedUSD": "13172870.65841450375987926070196111"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726877121",
+        "totalValueLockedUSD": "13394348.18153013836912981476384923"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726963313",
+        "totalValueLockedUSD": "13729252.5951208571734455263968338"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727049687",
+        "totalValueLockedUSD": "13487780.0999561072626017428844554"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727136521",
+        "totalValueLockedUSD": "13812278.42816144687648476968585058"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727222887",
+        "totalValueLockedUSD": "13614061.2566576059869494230279631"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727309257",
+        "totalValueLockedUSD": "13096766.39618601363238543595064331"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727395439",
+        "totalValueLockedUSD": "12697699.68941062645506030214297787"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727481625",
+        "totalValueLockedUSD": "13043892.03292994107901181987074036"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727568641",
+        "totalValueLockedUSD": "12906330.79696722191458428657970171"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727654475",
+        "totalValueLockedUSD": "12855075.18711238826002449728866402"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727741349",
+        "totalValueLockedUSD": "12512263.04114762724343142094930329"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727827957",
+        "totalValueLockedUSD": "10917780.05963052662456577008613825"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727913809",
+        "totalValueLockedUSD": "10453565.39954978508305094248217318"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728000869",
+        "totalValueLockedUSD": "10338454.39820275337453635816481627"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728087697",
+        "totalValueLockedUSD": "10591854.73727433139497031933882707"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728173601",
+        "totalValueLockedUSD": "10505890.77033130362819094773407666"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728259553",
+        "totalValueLockedUSD": "10530836.93933378859039294646177006"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728345949",
+        "totalValueLockedUSD": "10408844.2685174663694672592877294"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728432019",
+        "totalValueLockedUSD": "10433796.29483944380868423482894124"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728518421",
+        "totalValueLockedUSD": "10079964.26655513596280820869696696"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728605125",
+        "totalValueLockedUSD": "9892553.01855415682632656612963743"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728691863",
+        "totalValueLockedUSD": "9851162.98131235682356956649674711"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728780463",
+        "totalValueLockedUSD": "9988298.243035095050973819356615502"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728864493",
+        "totalValueLockedUSD": "9988113.85067902401736123888051316"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728952047",
+        "totalValueLockedUSD": "10625042.30401681949091049536024521"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729037153",
+        "totalValueLockedUSD": "10025399.56135260371221857635778371"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729123753",
+        "totalValueLockedUSD": "10035727.56963122258215329386427176"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729211735",
+        "totalValueLockedUSD": "9708824.435918449073922077937161765"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729296337",
+        "totalValueLockedUSD": "9637459.874780561002269809258662301"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729382711",
+        "totalValueLockedUSD": "9641016.76493125160221831587247805"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729469839",
+        "totalValueLockedUSD": "10007493.19571374018481438080123789"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729555907",
+        "totalValueLockedUSD": "9660917.429421264691621006903075298"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729641607",
+        "totalValueLockedUSD": "9520975.547199825008789044836648912"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729728357",
+        "totalValueLockedUSD": "9075198.202760596609724964974182291"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729816587",
+        "totalValueLockedUSD": "9151874.644962664738793848419633779"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729900853",
+        "totalValueLockedUSD": "8649541.016433055903907664114449903"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729987951",
+        "totalValueLockedUSD": "8857823.80428136479101192082407057"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730073605",
+        "totalValueLockedUSD": "8944541.866962346908964503864722376"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730160071",
+        "totalValueLockedUSD": "9123206.252425030695410962632490028"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730246755",
+        "totalValueLockedUSD": "9296202.428618971677138479913232298"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730333541",
+        "totalValueLockedUSD": "9363470.892233939970478950502084317"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730419331",
+        "totalValueLockedUSD": "8940178.393923695149875118111043316"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730505967",
+        "totalValueLockedUSD": "8878132.507244688881287416256195536"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730592285",
+        "totalValueLockedUSD": "8784536.101748257882928384345961399"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730678611",
+        "totalValueLockedUSD": "8633377.223602392490881312315652399"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730765285",
+        "totalValueLockedUSD": "8464627.792851667193384391893942282"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730852985",
+        "totalValueLockedUSD": "8552458.337842083303422151798650916"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730937949",
+        "totalValueLockedUSD": "9570835.150816490481270632418739376"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731024055",
+        "totalValueLockedUSD": "10080409.54543348272955460542789697"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731110463",
+        "totalValueLockedUSD": "10294939.71845899917485706125683052"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731196827",
+        "totalValueLockedUSD": "10948731.22618442548389889143974802"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731283519",
+        "totalValueLockedUSD": "11143598.27275560034524442549234002"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731369761",
+        "totalValueLockedUSD": "11613624.75015712693940338401383597"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731456131",
+        "totalValueLockedUSD": "11229461.76131140256908168344885087"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731542765",
+        "totalValueLockedUSD": "10786930.94933339265050637633245638"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731628805",
+        "totalValueLockedUSD": "10253904.00928508509852607696612682"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731715301",
+        "totalValueLockedUSD": "10229975.46731011351166459746933337"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731801977",
+        "totalValueLockedUSD": "10229506.57871580220569955425862414"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731888311",
+        "totalValueLockedUSD": "10012812.93673079160130885968561249"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731974697",
+        "totalValueLockedUSD": "10410971.13781243656453647988224185"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732061875",
+        "totalValueLockedUSD": "10052172.99531935117048283647568462"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732148305",
+        "totalValueLockedUSD": "9898411.126995258552045474493656575"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732233861",
+        "totalValueLockedUSD": "10559933.97095941524505405384394574"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732320363",
+        "totalValueLockedUSD": "10342958.94302767235146262035264557"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732407111",
+        "totalValueLockedUSD": "10524369.92345762854832431350432989"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732493123",
+        "totalValueLockedUSD": "10430115.535646710891138238380254"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732579341",
+        "totalValueLockedUSD": "10514397.84326344029652966126400068"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732665971",
+        "totalValueLockedUSD": "10229570.3209367065764411277938149"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732752113",
+        "totalValueLockedUSD": "11233860.682082927182652941843336"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732840281",
+        "totalValueLockedUSD": "10961970.72294078447984190402305002"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732925239",
+        "totalValueLockedUSD": "10951643.10121797820876047435930195"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733012147",
+        "totalValueLockedUSD": "11317620.45416344020352421720780708"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733097671",
+        "totalValueLockedUSD": "11271384.05464434488680390720283769"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733185525",
+        "totalValueLockedUSD": "10934881.81427254202872052481483374"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733270471",
+        "totalValueLockedUSD": "10905298.13608301535802176692890153"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733357181",
+        "totalValueLockedUSD": "11367976.43573871510983941065727539"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733443471",
+        "totalValueLockedUSD": "11149557.72859206265650052026199852"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733529779",
+        "totalValueLockedUSD": "11678978.90912247612810740191584155"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733616385",
+        "totalValueLockedUSD": "11637643.17958680219127801366670134"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733703767",
+        "totalValueLockedUSD": "11569195.82998992368667098248174146"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733788821",
+        "totalValueLockedUSD": "10756080.05072007350598909626352159"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733875391",
+        "totalValueLockedUSD": "10675859.35456808638247078747126707"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733962585",
+        "totalValueLockedUSD": "10964392.92651552959041528870318009"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734048289",
+        "totalValueLockedUSD": "10966308.04358802269740416075261913"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734134491",
+        "totalValueLockedUSD": "11056483.17567085700483912527737128"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734221045",
+        "totalValueLockedUSD": "10917419.37868602022949467061562769"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734307213",
+        "totalValueLockedUSD": "11139353.15483181363783694660218845"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734393849",
+        "totalValueLockedUSD": "11191074.43769696275948485068033836"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734480531",
+        "totalValueLockedUSD": "10867968.07139692912479208620114797"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734566717",
+        "totalValueLockedUSD": "9485654.328001991503165533298518658"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734653525",
+        "totalValueLockedUSD": "8932082.312964889257193647396404186"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734740139",
+        "totalValueLockedUSD": "8795635.782642411616546560259639608"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734825663",
+        "totalValueLockedUSD": "7548335.077913895334070548254309557"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734912581",
+        "totalValueLockedUSD": "7264582.456556708068096998254676498"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734998551",
+        "totalValueLockedUSD": "7589582.810800659720417090287377296"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735085143",
+        "totalValueLockedUSD": "7629723.579542525975805818663934831"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735171405",
+        "totalValueLockedUSD": "7674731.974144649905896553836354301"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735257993",
+        "totalValueLockedUSD": "6900453.462812238635738687650368588"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735345587",
+        "totalValueLockedUSD": "6917309.167752446661152320667088406"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735430463",
+        "totalValueLockedUSD": "6963987.784697476939047880578857609"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735516817",
+        "totalValueLockedUSD": "7073561.820215730746333912669304065"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735603511",
+        "totalValueLockedUSD": "7064472.030392590654650051474064888"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735689729",
+        "totalValueLockedUSD": "7034193.082556515131926792450985569"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735776017",
+        "totalValueLockedUSD": "7007512.343342847072841257051120957"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735865067",
+        "totalValueLockedUSD": "7087545.292180332164877384428323982"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735948917",
+        "totalValueLockedUSD": "7251955.912732169580484569155109472"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736035273",
+        "totalValueLockedUSD": "7405061.95715344835059282225326743"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736122429",
+        "totalValueLockedUSD": "7386100.892912816553963280456526602"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736208941",
+        "totalValueLockedUSD": "7501865.030434640815308108173624502"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736295153",
+        "totalValueLockedUSD": "6937380.852976697956878050770661399"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736381345",
+        "totalValueLockedUSD": "6443613.910658799407023954688691434"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736467637",
+        "totalValueLockedUSD": "6252133.150283939922433406579219582"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736554343",
+        "totalValueLockedUSD": "6315120.153228758828211004876820322"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736640019",
+        "totalValueLockedUSD": "6312518.446420159556316631692511943"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736726459",
+        "totalValueLockedUSD": "6227372.847209542219833056480046762"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736813085",
+        "totalValueLockedUSD": "5849806.941468440612674486356197192"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736899339",
+        "totalValueLockedUSD": "5969019.51283020287056819992731102"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736985623",
+        "totalValueLockedUSD": "6234134.057368030046186201189235088"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737072389",
+        "totalValueLockedUSD": "5972249.659191397985412642351538503"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737161507",
+        "totalValueLockedUSD": "6237960.660383320447322505934226853"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737244955",
+        "totalValueLockedUSD": "5987472.658448240089913155141351044"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737331203",
+        "totalValueLockedUSD": "5809289.044287813938272322244520587"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737417913",
+        "totalValueLockedUSD": "5918265.484592394224547405764921263"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737504119",
+        "totalValueLockedUSD": "6013760.156281677182655447809652342"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737590977",
+        "totalValueLockedUSD": "5879623.604625352069599255949257394"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737676877",
+        "totalValueLockedUSD": "5992345.026905345216191900176791372"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737763999",
+        "totalValueLockedUSD": "5537628.805833320060634307981719884"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737849907",
+        "totalValueLockedUSD": "5611474.640954929943005915577846156"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737936057",
+        "totalValueLockedUSD": "5513225.82221900573995209980189527"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738022447",
+        "totalValueLockedUSD": "5375240.819856659132630791369636854"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738108827",
+        "totalValueLockedUSD": "5210517.57060342931564001757975952"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738195629",
+        "totalValueLockedUSD": "5288898.850824245498229896945615379"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738281775",
+        "totalValueLockedUSD": "5474229.310615063808890633267826516"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738368311",
+        "totalValueLockedUSD": "5497719.310816210374001122017777046"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738454539",
+        "totalValueLockedUSD": "5236783.778346468831230445037569668"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738540847",
+        "totalValueLockedUSD": "4738902.093000174605195538801661063"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738630257",
+        "totalValueLockedUSD": "4768552.516169752741213702670560523"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738717459",
+        "totalValueLockedUSD": "4557992.455288817211880340220817593"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738801141",
+        "totalValueLockedUSD": "4631038.140973132476107380379518959"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738887377",
+        "totalValueLockedUSD": "4404884.940176355122986918059935387"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738972857",
+        "totalValueLockedUSD": "4294455.146452826194896680208567903"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739062999",
+        "totalValueLockedUSD": "4327455.883149287470168324367631662"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739145725",
+        "totalValueLockedUSD": "4370017.181402631070679452863483678"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739232129",
+        "totalValueLockedUSD": "4387574.422915379102977636964504283"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739319659",
+        "totalValueLockedUSD": "4282272.699851923693881193317932632"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739405419",
+        "totalValueLockedUSD": "4498303.414548655801360089072791538"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739492605",
+        "totalValueLockedUSD": "4172787.428416673656474035515303642"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739580625",
+        "totalValueLockedUSD": "4160037.900126190816040508714183522"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739664205",
+        "totalValueLockedUSD": "4142468.99731984957871438840243043"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739753281",
+        "totalValueLockedUSD": "4046785.131125392134651297153531555"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739837253",
+        "totalValueLockedUSD": "4145786.406846507248617375812510844"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739923507",
+        "totalValueLockedUSD": "4025198.960681572098796878775116246"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740010191",
+        "totalValueLockedUSD": "4073199.204074602247226168780379334"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740096821",
+        "totalValueLockedUSD": "4104070.145082801466051726954109015"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740184389",
+        "totalValueLockedUSD": "3957098.147705617747864130530895336"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740274155",
+        "totalValueLockedUSD": "4131812.15737827759201476223133444"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740355945",
+        "totalValueLockedUSD": "4208496.562675016758611326570381308"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740441743",
+        "totalValueLockedUSD": "3841392.019756846699942785012330101"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740528699",
+        "totalValueLockedUSD": "3706090.347590472331531142340019202"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740614805",
+        "totalValueLockedUSD": "3444515.57833556337281787633647994"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740701189",
+        "totalValueLockedUSD": "3381842.476194000776621881206143497"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740787409",
+        "totalValueLockedUSD": "3255290.12682738922925201311772294"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740874089",
+        "totalValueLockedUSD": "3226740.755499959162584790332932671"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740960407",
+        "totalValueLockedUSD": "3662174.744027034152319917518956392"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741050321",
+        "totalValueLockedUSD": "3161599.921099445742957151288981058"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741133199",
+        "totalValueLockedUSD": "3141835.167704512682647810205585589"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741220261",
+        "totalValueLockedUSD": "3237485.589677232213166548574852775"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741306909",
+        "totalValueLockedUSD": "3196724.102308478526895698345087274"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741392187",
+        "totalValueLockedUSD": "3064189.773750760580952660374147295"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741480769",
+        "totalValueLockedUSD": "3164669.185271268423979157228653253"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741566753",
+        "totalValueLockedUSD": "2902571.651421927182055771797859054"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741652571",
+        "totalValueLockedUSD": "2689235.151096529898668247971540115"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741740221",
+        "totalValueLockedUSD": "2753177.557946986715069254823757263"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741830667",
+        "totalValueLockedUSD": "2720584.597514388992140152017483166"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741914975",
+        "totalValueLockedUSD": "2657923.936062724498888389267330888"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741998433",
+        "totalValueLockedUSD": "2732807.404497131298179607106202399"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742086123",
+        "totalValueLockedUSD": "2761353.086486921886326755802263763"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742174525",
+        "totalValueLockedUSD": "2666172.795366382464542864914806338"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742257473",
+        "totalValueLockedUSD": "2730381.892193249858682960390984108"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742343601",
+        "totalValueLockedUSD": "2716876.547515029205766295267144512"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742430053",
+        "totalValueLockedUSD": "2875580.813269234434253960921610349"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742515953",
+        "totalValueLockedUSD": "2773581.746893916702699687283924689"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742601655",
+        "totalValueLockedUSD": "2750671.160353772156092810840387854"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742691125",
+        "totalValueLockedUSD": "2734793.852290693162002096049541188"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742780035",
+        "totalValueLockedUSD": "2757433.373267363834398980932294931"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742862753",
+        "totalValueLockedUSD": "2874930.321611812295365614078150688"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742952897",
+        "totalValueLockedUSD": "2854986.216574233718829287774773366"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743034849",
+        "totalValueLockedUSD": "2767158.415748817572667406993080948"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743120583",
+        "totalValueLockedUSD": "2758701.950629357936449830364617515"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743208439",
+        "totalValueLockedUSD": "2591223.261727190049854337288704226"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743293497",
+        "totalValueLockedUSD": "2484597.595888165576553871980946247"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743381487",
+        "totalValueLockedUSD": "2452579.883575601364549534632952278"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743472323",
+        "totalValueLockedUSD": "2479705.369375366428273463108439531"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743552859",
+        "totalValueLockedUSD": "2594330.588637281678902855020782584"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743639133",
+        "totalValueLockedUSD": "2428443.933063396680144877545064793"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743724989",
+        "totalValueLockedUSD": "2449797.345056328114827662671143176"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743812267",
+        "totalValueLockedUSD": "2462783.350909571224126667746329954"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743899313",
+        "totalValueLockedUSD": "2439220.276148703709322098210323413"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743988009",
+        "totalValueLockedUSD": "2134334.519204018209729441175684711"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744072161",
+        "totalValueLockedUSD": "2131823.93553569218967423788268902"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744157681",
+        "totalValueLockedUSD": "1991048.739928899064918467075161425"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744244541",
+        "totalValueLockedUSD": "2237188.646485645675032751761913384"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744332705",
+        "totalValueLockedUSD": "2064110.106971361154318286044498439"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744420881",
+        "totalValueLockedUSD": "2112150.931431709796567089619498133"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744509163",
+        "totalValueLockedUSD": "2185567.749154220204699372788603774"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744589649",
+        "totalValueLockedUSD": "2092713.565338384924711887385351263"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744682169",
+        "totalValueLockedUSD": "2113617.548661743300993477946397046"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744762003",
+        "totalValueLockedUSD": "2064927.800008616501724955190219118"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744850217",
+        "totalValueLockedUSD": "2055971.869175338599615526915437166"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744939277",
+        "totalValueLockedUSD": "2064407.17655932281651780788231569"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745021677",
+        "totalValueLockedUSD": "2060454.776781973507010607572439485"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745107987",
+        "totalValueLockedUSD": "2094247.306244750280227643310579652"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745194739",
+        "totalValueLockedUSD": "2051993.025424428211825894958357031"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745282175",
+        "totalValueLockedUSD": "2043485.315924083143558262860258139"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745366445",
+        "totalValueLockedUSD": "2220986.861027985651616122225251022"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745452835",
+        "totalValueLockedUSD": "2303242.581742744830946840844500061"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745543357",
+        "totalValueLockedUSD": "2267318.023005826011126877860732616"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745627933",
+        "totalValueLockedUSD": "2290268.400719797885394984086380307"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745713191",
+        "totalValueLockedUSD": "2306016.115426896132961759697288461"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745798411",
+        "totalValueLockedUSD": "2227523.990564420406321775079936721"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745885903",
+        "totalValueLockedUSD": "2218627.977422653254888607385838733"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745972409",
+        "totalValueLockedUSD": "2219140.033830442624359016642543051"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746071019",
+        "totalValueLockedUSD": "2241050.654538562728562846266673016"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746148593",
+        "totalValueLockedUSD": "2304041.057092148064649577614725759"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746231331",
+        "totalValueLockedUSD": "2297498.72040601909939518188471599"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746321847",
+        "totalValueLockedUSD": "2195774.067451769197166681465938289"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746408667",
+        "totalValueLockedUSD": "2163881.512602925089386333451436131"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746492209",
+        "totalValueLockedUSD": "2175219.493435510426935327759537508"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746577209",
+        "totalValueLockedUSD": "2146623.550054898272609242159019272"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746663397",
+        "totalValueLockedUSD": "2149967.993961195378045960440214165"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746749341",
+        "totalValueLockedUSD": "2494220.800312329858906611763250142"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746835773",
+        "totalValueLockedUSD": "2616892.130843185879451771463568167"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746921667",
+        "totalValueLockedUSD": "2942454.444914529665913196802058237"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747008019",
+        "totalValueLockedUSD": "2871140.828889266622574738010670111"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747097201",
+        "totalValueLockedUSD": "2879074.114025389480220366859848245"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747182151",
+        "totalValueLockedUSD": "2858639.439095712064035387962905931"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747267413",
+        "totalValueLockedUSD": "2808244.815410497556643760063715615"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747356259",
+        "totalValueLockedUSD": "2742854.698958311323885374468992664"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747440233",
+        "totalValueLockedUSD": "2745117.448209338441913309219155152"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747527363",
+        "totalValueLockedUSD": "2664905.032241690062453008649493197"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747613541",
+        "totalValueLockedUSD": "2699658.781562182479115122767856696"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747699711",
+        "totalValueLockedUSD": "2697577.515424073732965730930028446"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747785895",
+        "totalValueLockedUSD": "2663517.263290025844243571672195209"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747872121",
+        "totalValueLockedUSD": "2695459.959851221923579962123234139"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747958609",
+        "totalValueLockedUSD": "2800249.909781566145723819798895277"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748045247",
+        "totalValueLockedUSD": "2670063.873517284945800701121368619"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748131471",
+        "totalValueLockedUSD": "2682189.848213598855852066603308019"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748220213",
+        "totalValueLockedUSD": "2701905.592068599635270719084064668"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748304713",
+        "totalValueLockedUSD": "2651837.47022535412842638910187444"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748391287",
+        "totalValueLockedUSD": "2767767.384740766141091138696446193"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748476989",
+        "totalValueLockedUSD": "2778869.990753270485150171756535018"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748563995",
+        "totalValueLockedUSD": "1160270.109844333657000456659346866"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748649681",
+        "totalValueLockedUSD": "1110729.532295489492567276214481274"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748736053",
+        "totalValueLockedUSD": "1114285.148372013246331188811999199"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748824293",
+        "totalValueLockedUSD": "1041842.65932974096976225500365169"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748909799",
+        "totalValueLockedUSD": "1130825.741017706018276994481994556"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748996177",
+        "totalValueLockedUSD": "1135580.836032712818788974412908502"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749083579",
+        "totalValueLockedUSD": "1137276.435857771216679572183022293"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749168501",
+        "totalValueLockedUSD": "1055724.764672217551120296448405366"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749254603",
+        "totalValueLockedUSD": "1082993.501573943713125292422068974"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749341501",
+        "totalValueLockedUSD": "1100223.747417395062703121498691727"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749428765",
+        "totalValueLockedUSD": "1090353.381039843205248197755868397"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749514563",
+        "totalValueLockedUSD": "1164239.598961150659551878874263298"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749600481",
+        "totalValueLockedUSD": "1211943.651126733039357543928463381"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749686855",
+        "totalValueLockedUSD": "1186753.342308412958492995392985033"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749772827",
+        "totalValueLockedUSD": "1135954.983269257268990794074754995"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749860015",
+        "totalValueLockedUSD": "1102534.066039153967880484264111873"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749945661",
+        "totalValueLockedUSD": "1097247.958465378167521526450923256"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750035823",
+        "totalValueLockedUSD": "1103319.578970228531783833889437267"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750118509",
+        "totalValueLockedUSD": "1114592.003666656044916228159402879"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750205287",
+        "totalValueLockedUSD": "1078031.644247575918756464199867432"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750292841",
+        "totalValueLockedUSD": "1084255.259903620236293374202140327"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750378203",
+        "totalValueLockedUSD": "1082775.328272209037143975428654092"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750466083",
+        "totalValueLockedUSD": "1030706.791862800660855773231825244"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750560101",
+        "totalValueLockedUSD": "984870.4322735698577380076490574508"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750637815",
+        "totalValueLockedUSD": "957572.3999422188145093271871912277"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750730297",
+        "totalValueLockedUSD": "1028616.69391960564085834814105035"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750813113",
+        "totalValueLockedUSD": "1045780.231319900343613117113236167"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750901449",
+        "totalValueLockedUSD": "1039488.443196774275113836055749038"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750982567",
+        "totalValueLockedUSD": "1026422.245646887207563833714153402"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751077785",
+        "totalValueLockedUSD": "1030492.984830849795019286279194147"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751168815",
+        "totalValueLockedUSD": "1037019.635729056498339532824009206"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751243189",
+        "totalValueLockedUSD": "1064321.039268650679374714160568328"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751329855",
+        "totalValueLockedUSD": "1050849.705471696593741227618402173"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751423673",
+        "totalValueLockedUSD": "1015868.203210620322234450845588426"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751502143",
+        "totalValueLockedUSD": "1094123.518339621280582549789462226"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751587995",
+        "totalValueLockedUSD": "1099301.455222478591400732675356569"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751678373",
+        "totalValueLockedUSD": "1063961.533773500149607852858431866"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751770069",
+        "totalValueLockedUSD": "1062511.391316552824964533094812561"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751850237",
+        "totalValueLockedUSD": "1087122.818052574456513130641449701"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751934441",
+        "totalValueLockedUSD": "1073668.722506010084652828983523203"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752020837",
+        "totalValueLockedUSD": "899473.962342334866359837771189182"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752106917",
+        "totalValueLockedUSD": "947617.9562122367495295269436078166"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752192931",
+        "totalValueLockedUSD": "1007262.446331276418336590423858619"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752278605",
+        "totalValueLockedUSD": "1008410.339042003579003494545550731"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752366117",
+        "totalValueLockedUSD": "1001474.566153466885415876602627953"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752451995",
+        "totalValueLockedUSD": "1010878.260880986358912885754596086"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752538229",
+        "totalValueLockedUSD": "1052596.649373248793744354522230907"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752624019",
+        "totalValueLockedUSD": "1037423.205943247969316280213000267"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752710593",
+        "totalValueLockedUSD": "1114858.109418281762110836741379802"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752797601",
+        "totalValueLockedUSD": "1148165.470146081024011774922875929"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752883457",
+        "totalValueLockedUSD": "1162291.955408363195941187546386373"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752973593",
+        "totalValueLockedUSD": "1172809.468796404885861210870041575"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753056449",
+        "totalValueLockedUSD": "1223266.424645156200169489337566551"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753142987",
+        "totalValueLockedUSD": "1226869.45370149951650613594877268"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753229807",
+        "totalValueLockedUSD": "1184546.897683371180904629934664167"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753315595",
+        "totalValueLockedUSD": "1146140.866381818579351365824188485"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753401851",
+        "totalValueLockedUSD": "1171061.468359900961216201933576761"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753488563",
+        "totalValueLockedUSD": "1176587.984578618354624646195174151"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753574561",
+        "totalValueLockedUSD": "1183865.548790430373758802587259914"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753661737",
+        "totalValueLockedUSD": "1215761.45811941406577111554514283"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753747703",
+        "totalValueLockedUSD": "1176866.566349357277648062659404968"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753834309",
+        "totalValueLockedUSD": "1170717.127294841681177718378416014"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753921103",
+        "totalValueLockedUSD": "1153565.808613887002002459846191813"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754007021",
+        "totalValueLockedUSD": "1127839.275250428678408368854574616"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754092887",
+        "totalValueLockedUSD": "1064730.072938172159969411783824106"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754180625",
+        "totalValueLockedUSD": "1046738.002812277155980810744720339"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754265661",
+        "totalValueLockedUSD": "1064916.982776602433686712259596658"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754352521",
+        "totalValueLockedUSD": "1126966.810165465984396303952120464"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754439189",
+        "totalValueLockedUSD": "1096886.349865919300392983362820938"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754525323",
+        "totalValueLockedUSD": "1115522.507175985597147351010506572"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754612415",
+        "totalValueLockedUSD": "1160238.415277386339524099591383493"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754703947",
+        "totalValueLockedUSD": "1195948.339152365059184264879400489"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754787219",
+        "totalValueLockedUSD": "1262337.382491846083265683461630578"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754871271",
+        "totalValueLockedUSD": "1247400.161296116557541957094943156"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754957043",
+        "totalValueLockedUSD": "1239518.491647803651733551995430068"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755043201",
+        "totalValueLockedUSD": "1349852.374729033058741461984630274"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755129899",
+        "totalValueLockedUSD": "1393898.712531483999690481999833085"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755218731",
+        "totalValueLockedUSD": "1340561.159128914632590674013547217"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755304619",
+        "totalValueLockedUSD": "1302308.567087569231307549268449247"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755389399",
+        "totalValueLockedUSD": "1293847.593578972794301418890042556"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755476419",
+        "totalValueLockedUSD": "1312403.9404992901871363260123376"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755563043",
+        "totalValueLockedUSD": "1259871.378440337566955584576876669"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755649483",
+        "totalValueLockedUSD": "1202748.602381666297521108410216695"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755735553",
+        "totalValueLockedUSD": "1261176.72793376118070505260180134"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755821229",
+        "totalValueLockedUSD": "1226333.186017758164775282570514119"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755907967",
+        "totalValueLockedUSD": "1381091.86621186734451924798906291"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755995257",
+        "totalValueLockedUSD": "1368779.528312554839629170366539983"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756082057",
+        "totalValueLockedUSD": "1369745.358752344361963867058193498"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756167083",
+        "totalValueLockedUSD": "1259923.813201523397590023686206808"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756258693",
+        "totalValueLockedUSD": "1303080.844294534482790877893951641"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756340561",
+        "totalValueLockedUSD": "1274119.468331762534422865908105466"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756427795",
+        "totalValueLockedUSD": "1265383.367259791411827946674887158"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756513781",
+        "totalValueLockedUSD": "1222391.488633581504426315904098949"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756599127",
+        "totalValueLockedUSD": "1212906.82235775501351637207951213"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756685121",
+        "totalValueLockedUSD": "1225181.227029221290760218318448035"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756771553",
+        "totalValueLockedUSD": "1199689.358565473505582322838108186"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756865979",
+        "totalValueLockedUSD": "988717.9560977646131629871133284246"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756948601",
+        "totalValueLockedUSD": "1021424.044672837024915538292850928"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757030905",
+        "totalValueLockedUSD": "996824.6288421798750479984895527564"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757125877",
+        "totalValueLockedUSD": "992823.8331302113240103251562162783"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757204083",
+        "totalValueLockedUSD": "982591.8254063355735756000674921634"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757294275",
+        "totalValueLockedUSD": "989039.1512509396500435578959654705"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757391025",
+        "totalValueLockedUSD": "981606.3139931721920688483394844561"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757464331",
+        "totalValueLockedUSD": "974493.6410006420442578266019031757"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757553011",
+        "totalValueLockedUSD": "984681.936835906254150847471669719"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757637631",
+        "totalValueLockedUSD": "1007831.915542831376825371153023868"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757722481",
+        "totalValueLockedUSD": "1047299.243853522797746363196044935"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757808183",
+        "totalValueLockedUSD": "1042465.015636459933813060273821476"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757899407",
+        "totalValueLockedUSD": "1035492.337379123050389341646085731"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757981743",
+        "totalValueLockedUSD": "1012479.4139967426203812981648392"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1758076371",
+        "totalValueLockedUSD": "1011888.267759143089007208306116474"
+      },
+      {
+        "dailyProtocolSideRevenueUSD": "0",
+        "dailySupplySideRevenueUSD": "0",
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1758155155",
+        "totalValueLockedUSD": "1024778.523323273804438298833881521"
+      }
+    ]
+  }
+}

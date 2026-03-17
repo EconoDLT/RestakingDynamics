@@ -1,0 +1,2656 @@
+{
+  "data": {
+    "financialsDailySnapshots": [
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712476239",
+        "totalValueLockedUSD": "0"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712543343",
+        "totalValueLockedUSD": "4993.43308087145193291406"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712620836",
+        "totalValueLockedUSD": "1019424.536716571840031273131193"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712707496",
+        "totalValueLockedUSD": "3808878.44738298134910751364761"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712793752",
+        "totalValueLockedUSD": "5429935.561270278681315296092271"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712880141",
+        "totalValueLockedUSD": "7902956.757705824740925105488853"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1712967013",
+        "totalValueLockedUSD": "7925916.266201802428062121814684"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713053304",
+        "totalValueLockedUSD": "7916906.645041891148526727997716"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713139308",
+        "totalValueLockedUSD": "8633398.291826248048695584228439"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713225731",
+        "totalValueLockedUSD": "12057442.755742363064293820905892"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713312154",
+        "totalValueLockedUSD": "14332485.518401666978566201692045"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713398575",
+        "totalValueLockedUSD": "17112892.113431471362050190210909"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713484884",
+        "totalValueLockedUSD": "19433821.689557055398273643274408"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713571560",
+        "totalValueLockedUSD": "51604510.515769947159122877547734"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713657838",
+        "totalValueLockedUSD": "58688932.797966193270350455850127"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713745336",
+        "totalValueLockedUSD": "60779507.653955391633337766998334"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713830753",
+        "totalValueLockedUSD": "64540322.104293983761973089985146"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1713916978",
+        "totalValueLockedUSD": "66787247.747761644977641503172122"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714003374",
+        "totalValueLockedUSD": "65916105.664271678581547329497111"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714091360",
+        "totalValueLockedUSD": "74779094.107944226033947122781335"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714177056",
+        "totalValueLockedUSD": "75881602.527288327522292613745702"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714262545",
+        "totalValueLockedUSD": "94156899.961270781115919833874767"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714351057",
+        "totalValueLockedUSD": "95988175.027552413653261071710518"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714435345",
+        "totalValueLockedUSD": "93027282.055070632339791101831823"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714521664",
+        "totalValueLockedUSD": "88359256.554653184309896861228724"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714608035",
+        "totalValueLockedUSD": "90645398.976848319404914018142143"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714694985",
+        "totalValueLockedUSD": "92665079.808555283819508275233425"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714780802",
+        "totalValueLockedUSD": "97192985.698176061283896652288217"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714867894",
+        "totalValueLockedUSD": "98364377.756500247950668603046173"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1714953620",
+        "totalValueLockedUSD": "98141762.482198002997849560451434"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715041074",
+        "totalValueLockedUSD": "99501864.476182407046015546536079"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715126539",
+        "totalValueLockedUSD": "98450486.53643809125322263882087"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715212806",
+        "totalValueLockedUSD": "96964789.033014830569500350915876"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715299322",
+        "totalValueLockedUSD": "98097767.275790072120276618931932"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715385828",
+        "totalValueLockedUSD": "94390994.419584512355825838404534"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715472132",
+        "totalValueLockedUSD": "92895769.322941618268984148204824"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715558683",
+        "totalValueLockedUSD": "93357659.482186954512076335060438"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715645131",
+        "totalValueLockedUSD": "94191123.662573749269059646096298"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715731438",
+        "totalValueLockedUSD": "92523150.94564642443986731875891"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715818306",
+        "totalValueLockedUSD": "95980844.326975699990247246361427"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715904349",
+        "totalValueLockedUSD": "93783520.307924645495248705540677"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1715991641",
+        "totalValueLockedUSD": "99622556.199594373949759650527612"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716077066",
+        "totalValueLockedUSD": "102058514.423931283331139558839067"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716165005",
+        "totalValueLockedUSD": "101090334.039049225510831700732917"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716249894",
+        "totalValueLockedUSD": "112525038.860208402034695664900132"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716336983",
+        "totalValueLockedUSD": "123939731.475047703188611961896813"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716422427",
+        "totalValueLockedUSD": "122340887.055339160038086347155206"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716509133",
+        "totalValueLockedUSD": "123120361.33437951257105565511062"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716595227",
+        "totalValueLockedUSD": "121552413.580151693689413597860619"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716683791",
+        "totalValueLockedUSD": "122323575.845829520470596360894295"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716768599",
+        "totalValueLockedUSD": "125795194.436306059302740078747516"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716855538",
+        "totalValueLockedUSD": "129821438.346413365080724391802204"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1716941141",
+        "totalValueLockedUSD": "129840590.183835322432329768111371"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717028989",
+        "totalValueLockedUSD": "127387609.757465158297067940400541"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717115776",
+        "totalValueLockedUSD": "127512791.265830507098607665223293"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717201506",
+        "totalValueLockedUSD": "129142033.143053192280018481640926"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717288982",
+        "totalValueLockedUSD": "130518293.626994761768168536924818"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717372867",
+        "totalValueLockedUSD": "130250712.916975356071338140243762"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717460669",
+        "totalValueLockedUSD": "129219423.798051328050790502784728"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717545787",
+        "totalValueLockedUSD": "130732170.062504501966886801459746"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717632027",
+        "totalValueLockedUSD": "130902444.991396627939117323821682"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717718605",
+        "totalValueLockedUSD": "130449179.269590080454420381146929"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717804869",
+        "totalValueLockedUSD": "126351832.99557245387984685771131"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717891305",
+        "totalValueLockedUSD": "126256733.42137247547459318813146"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1717977847",
+        "totalValueLockedUSD": "127097004.175629130350889232342733"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718064062",
+        "totalValueLockedUSD": "126287129.076161063711232253869936"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718150479",
+        "totalValueLockedUSD": "123611848.522189596031333993879598"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718236827",
+        "totalValueLockedUSD": "121900630.419971815521970445784271"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718323236",
+        "totalValueLockedUSD": "120559065.61850611875406163538917"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718409658",
+        "totalValueLockedUSD": "117797404.172768937672099069200142"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718496010",
+        "totalValueLockedUSD": "122780827.987231832834684843243004"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718582473",
+        "totalValueLockedUSD": "123842755.489003787185768991165695"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718669317",
+        "totalValueLockedUSD": "121916682.47459075416378174183824"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718755276",
+        "totalValueLockedUSD": "120874238.193298000152179800923838"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718841685",
+        "totalValueLockedUSD": "124941899.515616624931967204997161"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1718928028",
+        "totalValueLockedUSD": "124426793.31595992671145878229116"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719014476",
+        "totalValueLockedUSD": "122233071.471283693321395608066433"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719100846",
+        "totalValueLockedUSD": "121983722.894246223966252587501194"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719187224",
+        "totalValueLockedUSD": "120171258.798020808435210490931757"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719273686",
+        "totalValueLockedUSD": "116590928.677594039334391107417401"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719360033",
+        "totalValueLockedUSD": "113670562.558625804764348175358241"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719446446",
+        "totalValueLockedUSD": "76549588.591222851549662527204459"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719532855",
+        "totalValueLockedUSD": "62928769.752010059184933413551384"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719621498",
+        "totalValueLockedUSD": "58150600.845992853048738604998754"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719707177",
+        "totalValueLockedUSD": "57941838.131472675682515002113759"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719792132",
+        "totalValueLockedUSD": "38373257.556252484946535517003686"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719878810",
+        "totalValueLockedUSD": "38981377.216371519971025778930961"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1719964865",
+        "totalValueLockedUSD": "36609238.992517150153437824403721"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720051261",
+        "totalValueLockedUSD": "33575449.252712946363617799893154"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720137666",
+        "totalValueLockedUSD": "31493943.523137120922572608921404"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720224049",
+        "totalValueLockedUSD": "29968499.550205554181084795709478"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720311513",
+        "totalValueLockedUSD": "28458840.108876830582757922513008"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720396864",
+        "totalValueLockedUSD": "27314621.210743607914953282684287"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720483438",
+        "totalValueLockedUSD": "28008657.988171755444398250768242"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720569650",
+        "totalValueLockedUSD": "28134750.044306137318243594729392"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720656070",
+        "totalValueLockedUSD": "27008999.128652192149233771686467"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720744215",
+        "totalValueLockedUSD": "27018141.06938951058449147187383"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720828840",
+        "totalValueLockedUSD": "25991365.27349069930392550668026"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1720915901",
+        "totalValueLockedUSD": "26299957.351998931126654753255785"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721001706",
+        "totalValueLockedUSD": "26720592.567484743953942088675433"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721089530",
+        "totalValueLockedUSD": "25576572.277024476925810311697144"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721174511",
+        "totalValueLockedUSD": "25353222.482839196338620793021518"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721262053",
+        "totalValueLockedUSD": "23291432.397664592339850766741584"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721347213",
+        "totalValueLockedUSD": "23564640.806003711295211116145388"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721433976",
+        "totalValueLockedUSD": "23869380.243672846632702276126654"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721520191",
+        "totalValueLockedUSD": "23822422.877950797587438384305107"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721606486",
+        "totalValueLockedUSD": "23927588.123530641979345895762392"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721692867",
+        "totalValueLockedUSD": "24130573.630112725004142148467462"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721779274",
+        "totalValueLockedUSD": "24428853.116843785604127609256836"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721866997",
+        "totalValueLockedUSD": "23412753.651400762345036485391639"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1721952390",
+        "totalValueLockedUSD": "22433388.449285381829595211818397"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722038490",
+        "totalValueLockedUSD": "22935938.466970459099685747582272"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722125812",
+        "totalValueLockedUSD": "22830289.723162477961860816940869"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722212024",
+        "totalValueLockedUSD": "22668113.947926066743489625490831"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722299272",
+        "totalValueLockedUSD": "21688475.907999179975360673543149"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722385723",
+        "totalValueLockedUSD": "21204430.740318816901595858112735"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722470798",
+        "totalValueLockedUSD": "21012029.7247694134006800850525"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722556831",
+        "totalValueLockedUSD": "20638632.154602842769594327877136"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722643819",
+        "totalValueLockedUSD": "19932108.607776990696204268155346"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722729887",
+        "totalValueLockedUSD": "19506529.206991389181958858717856"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722816034",
+        "totalValueLockedUSD": "18626745.86678880663434355013433"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722902631",
+        "totalValueLockedUSD": "16973460.936672387287048167707162"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1722988948",
+        "totalValueLockedUSD": "17226167.986001608705078594477476"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723075882",
+        "totalValueLockedUSD": "16746909.996137643980156347244433"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723162254",
+        "totalValueLockedUSD": "17923053.23810582396757655735088"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723248495",
+        "totalValueLockedUSD": "18032978.223701042781508526015774"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723335380",
+        "totalValueLockedUSD": "18001498.710960577527496370877437"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723423899",
+        "totalValueLockedUSD": "17794554.100708828683340070842066"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723508576",
+        "totalValueLockedUSD": "18363315.811399362915872368565156"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723595321",
+        "totalValueLockedUSD": "18195075.68936050596331219388251"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723682274",
+        "totalValueLockedUSD": "17962645.741060055212612693588154"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723770965",
+        "totalValueLockedUSD": "17463447.413356049275500082931365"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723855432",
+        "totalValueLockedUSD": "17475434.698624613456732911869624"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1723940009",
+        "totalValueLockedUSD": "17379420.726383022774940945231987"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724026182",
+        "totalValueLockedUSD": "17473471.554836625228235650472048"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724112091",
+        "totalValueLockedUSD": "17200541.670642028833203195179722"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724198573",
+        "totalValueLockedUSD": "17064847.121080327105778817836371"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724285477",
+        "totalValueLockedUSD": "17106864.874539333541461726311929"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724372054",
+        "totalValueLockedUSD": "17032239.116752608945340718257118"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724460682",
+        "totalValueLockedUSD": "17690237.969612729994641779430396"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724544694",
+        "totalValueLockedUSD": "17842540.268089268333790161282499"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724633341",
+        "totalValueLockedUSD": "17720188.623126286604946390869297"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724718411",
+        "totalValueLockedUSD": "17307653.175372280727115344436143"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724803855",
+        "totalValueLockedUSD": "16406487.218774893333279254474294"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724890147",
+        "totalValueLockedUSD": "16462096.720620304169149068525528"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1724978091",
+        "totalValueLockedUSD": "16491350.781729644570996608386659"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725063305",
+        "totalValueLockedUSD": "16330403.767010161382594243838983"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725153666",
+        "totalValueLockedUSD": "16311078.135378433816761996430805"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725235762",
+        "totalValueLockedUSD": "16011864.335428277182996145198305"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725322632",
+        "totalValueLockedUSD": "16380990.539008369137534887166309"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725408961",
+        "totalValueLockedUSD": "16042534.130718036111903910542273"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725494795",
+        "totalValueLockedUSD": "15940466.315386879000490068198762"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725587778",
+        "totalValueLockedUSD": "15175694.963500961830861040137851"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725667804",
+        "totalValueLockedUSD": "14654355.712776526459594861557882"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725754751",
+        "totalValueLockedUSD": "14842785.154026479404047686141425"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725841225",
+        "totalValueLockedUSD": "14791517.567199243387555736356693"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1725929537",
+        "totalValueLockedUSD": "15029169.017046321872015130883969"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726013049",
+        "totalValueLockedUSD": "15130304.282986970915836381788561"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726099808",
+        "totalValueLockedUSD": "14972758.286780828812554555809315"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726188921",
+        "totalValueLockedUSD": "14698791.582754678810451104030575"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726273658",
+        "totalValueLockedUSD": "15005495.6851996861864362074727"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726360249",
+        "totalValueLockedUSD": "14818665.647223021191409430775263"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726444939",
+        "totalValueLockedUSD": "14581692.021994652923330026301312"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726531740",
+        "totalValueLockedUSD": "14338886.264607091484605129871453"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726617818",
+        "totalValueLockedUSD": "14469094.047426633695312297815595"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726706164",
+        "totalValueLockedUSD": "14380700.001308171885806647403121"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726793309",
+        "totalValueLockedUSD": "14887754.409515604819864447731752"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726878358",
+        "totalValueLockedUSD": "15165623.405344697791562081684441"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1726964296",
+        "totalValueLockedUSD": "15340082.219183254981265877616707"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727052368",
+        "totalValueLockedUSD": "15252826.126600083525941665724508"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727137759",
+        "totalValueLockedUSD": "15586889.371314330583168692066882"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727223793",
+        "totalValueLockedUSD": "15535254.932679378811994779289374"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727308990",
+        "totalValueLockedUSD": "15245752.71354336975721761127643"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727397118",
+        "totalValueLockedUSD": "15575844.412374410706774052043647"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727481643",
+        "totalValueLockedUSD": "15753738.319784670683089935082977"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727570366",
+        "totalValueLockedUSD": "15599040.490021038747893260957565"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727655332",
+        "totalValueLockedUSD": "15577291.167444245150603362825313"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727743277",
+        "totalValueLockedUSD": "15252238.362374287130105174966897"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727828092",
+        "totalValueLockedUSD": "14747134.523617593200015422142229"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1727914654",
+        "totalValueLockedUSD": "14318252.704519892037083503747225"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728001049",
+        "totalValueLockedUSD": "14147469.891184221996233658983687"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728086436",
+        "totalValueLockedUSD": "14472632.038343387732859917649536"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728173875",
+        "totalValueLockedUSD": "14341115.301632124464406512978355"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728260157",
+        "totalValueLockedUSD": "14408078.982863893841237067235477"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728346177",
+        "totalValueLockedUSD": "14461554.460335550047927459881903"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728432088",
+        "totalValueLockedUSD": "14418593.780663224754556341747234"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728518474",
+        "totalValueLockedUSD": "14055662.444669938050845613675455"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728605961",
+        "totalValueLockedUSD": "14040953.620948988898541048509727"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728691452",
+        "totalValueLockedUSD": "14318994.494014764645015856923665"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728778141",
+        "totalValueLockedUSD": "14455927.154075889501398615059211"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728866294",
+        "totalValueLockedUSD": "14341953.960886672873436256290113"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1728957191",
+        "totalValueLockedUSD": "14860142.262533871465503947788132"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729037263",
+        "totalValueLockedUSD": "14689284.444330538326687636617766"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729123527",
+        "totalValueLockedUSD": "14760213.725544428061672454057457"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729209782",
+        "totalValueLockedUSD": "14687014.531226351041644613504887"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729296628",
+        "totalValueLockedUSD": "15351464.772429406766466608004484"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729383696",
+        "totalValueLockedUSD": "15343886.721171658619037851226666"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729469634",
+        "totalValueLockedUSD": "15721375.334514513536729081319515"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729555967",
+        "totalValueLockedUSD": "15409530.32998138398539965047675"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729642517",
+        "totalValueLockedUSD": "15229428.078868623050475360277174"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729728296",
+        "totalValueLockedUSD": "14819782.2996578220160457137051"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729815585",
+        "totalValueLockedUSD": "14771850.432111629568308166160021"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729903845",
+        "totalValueLockedUSD": "14632277.325919172962641859188988"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1729987333",
+        "totalValueLockedUSD": "14492518.890237145804239107349097"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730079514",
+        "totalValueLockedUSD": "14553183.736905304092644185856534"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730160137",
+        "totalValueLockedUSD": "14606571.845964801333509490526733"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730248043",
+        "totalValueLockedUSD": "15054424.515637616919958852385484"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730333987",
+        "totalValueLockedUSD": "14898611.030529280518103287527788"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730420317",
+        "totalValueLockedUSD": "14132916.26556988920993982412166"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730507248",
+        "totalValueLockedUSD": "13691105.184070035437630242638538"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730593228",
+        "totalValueLockedUSD": "13391609.698207417306900851773259"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730678809",
+        "totalValueLockedUSD": "13129270.697166947151140643835919"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730768438",
+        "totalValueLockedUSD": "12909800.293733543584978993470792"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730851310",
+        "totalValueLockedUSD": "12987683.756891114398249043678839"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1730937862",
+        "totalValueLockedUSD": "13949475.598832416022850329053018"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731028978",
+        "totalValueLockedUSD": "14500265.183028590587291543581037"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731112785",
+        "totalValueLockedUSD": "14206831.498774451063516682339205"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731197172",
+        "totalValueLockedUSD": "14435621.894786841849878625229477"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731283717",
+        "totalValueLockedUSD": "14768793.098137874885141122819981"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731369719",
+        "totalValueLockedUSD": "15268793.400571110459696746045568"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731459421",
+        "totalValueLockedUSD": "14882567.340495793893243720696918"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731542652",
+        "totalValueLockedUSD": "13659525.18879794549195393250982"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731629586",
+        "totalValueLockedUSD": "13403965.456748217335808994418894"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731720169",
+        "totalValueLockedUSD": "13244433.236912859294274235636543"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731804369",
+        "totalValueLockedUSD": "13540605.968457028927601932073665"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731889962",
+        "totalValueLockedUSD": "13224293.17221901005553438022802"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1731974885",
+        "totalValueLockedUSD": "13337409.574722795782760020640972"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732062413",
+        "totalValueLockedUSD": "13069522.197931399252996201822311"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732147351",
+        "totalValueLockedUSD": "12863367.267986265367872096461817"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732233645",
+        "totalValueLockedUSD": "13484296.307593383381478046207018"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732320932",
+        "totalValueLockedUSD": "13097870.166430630162567410397535"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732407160",
+        "totalValueLockedUSD": "13371140.718835291514876080647566"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732494207",
+        "totalValueLockedUSD": "12901656.402292329972508130794898"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732581003",
+        "totalValueLockedUSD": "13045298.7967975163186350518344"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732665851",
+        "totalValueLockedUSD": "12681794.174370535534580368875202"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732752928",
+        "totalValueLockedUSD": "13372705.636070281086264384082255"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732838935",
+        "totalValueLockedUSD": "13059334.289035538940518270253095"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1732925369",
+        "totalValueLockedUSD": "12853732.067730740058770738749249"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733011556",
+        "totalValueLockedUSD": "13029852.007818052111122896945984"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733098244",
+        "totalValueLockedUSD": "12987305.539613996208144075206623"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733184162",
+        "totalValueLockedUSD": "12650478.065011611289211041253293"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733270653",
+        "totalValueLockedUSD": "12464005.086051149233591275248745"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733360175",
+        "totalValueLockedUSD": "13163523.032388513903974220236866"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733446532",
+        "totalValueLockedUSD": "13082774.424901344932891919321057"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733530122",
+        "totalValueLockedUSD": "13511875.263954160164874670030688"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733616580",
+        "totalValueLockedUSD": "13328795.440051257756611464814666"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733702813",
+        "totalValueLockedUSD": "13241135.298537148952488085487775"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733792962",
+        "totalValueLockedUSD": "12563841.161733988682814031961964"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733875586",
+        "totalValueLockedUSD": "12207273.73219811906071903164061"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1733962715",
+        "totalValueLockedUSD": "12650700.938429422326371556807222"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734048006",
+        "totalValueLockedUSD": "10695518.452550542425249039011884"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734134463",
+        "totalValueLockedUSD": "10742139.443637358550517782762984"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734221675",
+        "totalValueLockedUSD": "10521885.43386346882723350676425"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734307370",
+        "totalValueLockedUSD": "10584622.508145102287487991292375"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734393802",
+        "totalValueLockedUSD": "10711053.177602279151938030166328"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734483854",
+        "totalValueLockedUSD": "10462074.26031538882313052303123"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734572667",
+        "totalValueLockedUSD": "10075159.870641408158574544733697"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734655056",
+        "totalValueLockedUSD": "9327652.521941536166205039455405"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734740413",
+        "totalValueLockedUSD": "9269012.264763594082203501792652"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734831557",
+        "totalValueLockedUSD": "9079152.621483429370232816806591"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1734913847",
+        "totalValueLockedUSD": "8932716.967416652568294267741693"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735001589",
+        "totalValueLockedUSD": "9081319.44459817177481337089301"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735086138",
+        "totalValueLockedUSD": "9243502.402697988103462887133363"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735172308",
+        "totalValueLockedUSD": "8832752.293982724398453925834951"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735258099",
+        "totalValueLockedUSD": "8463807.77114447342349977179836"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735345495",
+        "totalValueLockedUSD": "8422706.927367386819542462174965"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735432867",
+        "totalValueLockedUSD": "8531579.134654599875640101757064"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735518042",
+        "totalValueLockedUSD": "8434108.157359793974860444962083"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735603620",
+        "totalValueLockedUSD": "8392194.089705255026049713120077"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735696079",
+        "totalValueLockedUSD": "8408137.593530958673293139934256"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735777734",
+        "totalValueLockedUSD": "8362917.852744614996309031580878"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735866643",
+        "totalValueLockedUSD": "8560236.8165695083178034664136"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1735951595",
+        "totalValueLockedUSD": "8781984.419693354310375501459792"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736042789",
+        "totalValueLockedUSD": "8852001.493760575528421725434673"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736126300",
+        "totalValueLockedUSD": "8851078.994097578859305058870938"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736208001",
+        "totalValueLockedUSD": "8954424.5211927590117622343648"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736295475",
+        "totalValueLockedUSD": "8399232.283394628163595263670913"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736381639",
+        "totalValueLockedUSD": "8171247.904824481295265457614724"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736467303",
+        "totalValueLockedUSD": "7890451.041180078523865797458663"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736555304",
+        "totalValueLockedUSD": "7970175.169387417841077593412866"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736641303",
+        "totalValueLockedUSD": "7930390.59955466783702632814191"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736727303",
+        "totalValueLockedUSD": "7914461.557124783209263112642222"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736813303",
+        "totalValueLockedUSD": "7507132.85146759305318905741652"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736899303",
+        "totalValueLockedUSD": "7801530.480613820882830424738057"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1736987302",
+        "totalValueLockedUSD": "8137488.181525602274777048588309"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737072305",
+        "totalValueLockedUSD": "7934481.440201810562792484273234"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737159302",
+        "totalValueLockedUSD": "8156608.861703132469528372543126"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737245303",
+        "totalValueLockedUSD": "7804093.250221319377563183363467"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737331302",
+        "totalValueLockedUSD": "7844357.588480983430290949617989"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737418305",
+        "totalValueLockedUSD": "7848901.122618121954321780370293"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737504305",
+        "totalValueLockedUSD": "7773640.083654010476579911721453"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737591302",
+        "totalValueLockedUSD": "7650852.275027755703819105461138"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737677302",
+        "totalValueLockedUSD": "7673169.967758227602020745461086"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737763339",
+        "totalValueLockedUSD": "7810000.371735302608561028848719"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737850305",
+        "totalValueLockedUSD": "7716853.136416165120828079056197"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1737936305",
+        "totalValueLockedUSD": "7698329.351470336895279812917258"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738023418",
+        "totalValueLockedUSD": "7407070.87013743112789667708604"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738110305",
+        "totalValueLockedUSD": "7160925.405090458359161506890864"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738195695",
+        "totalValueLockedUSD": "7235280.210441815772803924615377"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738286068",
+        "totalValueLockedUSD": "7427868.203005970854352175157055"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738368013",
+        "totalValueLockedUSD": "7582605.600298332761115994321474"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738454788",
+        "totalValueLockedUSD": "7180212.446663828874634316602119"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738543336",
+        "totalValueLockedUSD": "6792469.967881059806778649790725"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738628935",
+        "totalValueLockedUSD": "6442245.637261571253398175058929"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738722711",
+        "totalValueLockedUSD": "6358275.707148795701336642960574"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738800400",
+        "totalValueLockedUSD": "6319947.790300164454869554326815"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738887146",
+        "totalValueLockedUSD": "6289704.039417877956725857663256"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1738973099",
+        "totalValueLockedUSD": "6076579.275230666262750749658805"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739059533",
+        "totalValueLockedUSD": "6006128.471853915193040629817264"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739153200",
+        "totalValueLockedUSD": "5981495.590518497140389931900469"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739233347",
+        "totalValueLockedUSD": "6058622.82724457135854802280528"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739330259",
+        "totalValueLockedUSD": "5800221.501585188463612716485895"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739431284",
+        "totalValueLockedUSD": "5839928.061404366677617754734784"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739494437",
+        "totalValueLockedUSD": "5860505.443546996446240535924442"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739583430",
+        "totalValueLockedUSD": "5945809.650282875019179215590766"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739666421",
+        "totalValueLockedUSD": "5909125.414206142290493547249251"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739756939",
+        "totalValueLockedUSD": "5894086.356349557351103420366937"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739841212",
+        "totalValueLockedUSD": "6069811.765735401215639050315077"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1739923941",
+        "totalValueLockedUSD": "5810477.797039654821021330094265"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740012733",
+        "totalValueLockedUSD": "5941252.226267278035651084693632"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740097068",
+        "totalValueLockedUSD": "5957858.114795675320448479590186"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740192071",
+        "totalValueLockedUSD": "5780249.745142434603611163591821"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740279446",
+        "totalValueLockedUSD": "5972641.872171369214056994814153"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740356312",
+        "totalValueLockedUSD": "6027981.367564687993685840601862"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740442122",
+        "totalValueLockedUSD": "5662078.366335152861476178509706"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740541345",
+        "totalValueLockedUSD": "5358213.857528260502585259077192"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740615698",
+        "totalValueLockedUSD": "5215092.468177574907185659984277"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740712188",
+        "totalValueLockedUSD": "5102063.196656108830696925806479"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740787955",
+        "totalValueLockedUSD": "4935794.758093729031882222576261"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740881035",
+        "totalValueLockedUSD": "4899470.767435155134976640523385"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1740963335",
+        "totalValueLockedUSD": "5275186.065514427992247543156949"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741047635",
+        "totalValueLockedUSD": "4943717.267803266825180351916775"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741133913",
+        "totalValueLockedUSD": "4803189.046132988815545201358923"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741220499",
+        "totalValueLockedUSD": "4878652.561899556802774866910528"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741310119",
+        "totalValueLockedUSD": "5010071.381786032813064154994064"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741406419",
+        "totalValueLockedUSD": "4822802.667272873286853062901543"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741480318",
+        "totalValueLockedUSD": "4837153.946758727142775160314461"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741566654",
+        "totalValueLockedUSD": "4412234.425497277259625167037728"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741653518",
+        "totalValueLockedUSD": "4129578.595242094255027126540373"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741738694",
+        "totalValueLockedUSD": "4092319.216096397949178492475829"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741826749",
+        "totalValueLockedUSD": "4028720.501795966566906786989862"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1741913287",
+        "totalValueLockedUSD": "3994678.62735585600896825045524"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742033752",
+        "totalValueLockedUSD": "4087393.541464830998995710037485"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742083610",
+        "totalValueLockedUSD": "4117474.992054682306783882031942"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742177593",
+        "totalValueLockedUSD": "4084082.452884423077911605168106"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742256435",
+        "totalValueLockedUSD": "4075431.653738004315198630408163"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742349488",
+        "totalValueLockedUSD": "4069026.731435427439652201955378"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742428963",
+        "totalValueLockedUSD": "4240511.220844090769980052052269"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742518818",
+        "totalValueLockedUSD": "4149834.96573261719408624926256"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742627074",
+        "totalValueLockedUSD": "4135951.889016073502234765252158"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742688719",
+        "totalValueLockedUSD": "4141225.06618544801066806395232"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742778294",
+        "totalValueLockedUSD": "4184138.335290405659060729777033"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742868799",
+        "totalValueLockedUSD": "4290092.889636680058098850238187"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1742954236",
+        "totalValueLockedUSD": "4280507.027188785884567170825625"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743033839",
+        "totalValueLockedUSD": "4204130.922706824257087052820861"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743121731",
+        "totalValueLockedUSD": "4169051.03305647810596360189834"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743211651",
+        "totalValueLockedUSD": "3962910.523366719151632048304342"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743312170",
+        "totalValueLockedUSD": "3929799.006850462083136792552186"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743397823",
+        "totalValueLockedUSD": "3865804.163504508613093019864908"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743466275",
+        "totalValueLockedUSD": "3856761.646290925036879841754584"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743556976",
+        "totalValueLockedUSD": "3911612.831053199597469314551677"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743645406",
+        "totalValueLockedUSD": "3899178.527083226046465093831276"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743735845",
+        "totalValueLockedUSD": "3772298.291880931576549950057971"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743816255",
+        "totalValueLockedUSD": "3784566.849595047799156329400961"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743912400",
+        "totalValueLockedUSD": "3811681.347976692025887852489322"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1743989655",
+        "totalValueLockedUSD": "3559872.82376520908082125265224"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744071706",
+        "totalValueLockedUSD": "3445640.643069974473504073806211"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744158682",
+        "totalValueLockedUSD": "3263085.993052637399652872946917"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744246303",
+        "totalValueLockedUSD": "3446907.619692269321605854813497"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744333862",
+        "totalValueLockedUSD": "3332149.427129487529604315645776"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744425940",
+        "totalValueLockedUSD": "3376845.307802448039986566870283"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744509776",
+        "totalValueLockedUSD": "3500162.911402886499984041846704"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744594678",
+        "totalValueLockedUSD": "3488297.116948829684935570709724"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744677081",
+        "totalValueLockedUSD": "3522295.170310385143361010856631"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744763301",
+        "totalValueLockedUSD": "3473810.694965463310810374938329"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744862069",
+        "totalValueLockedUSD": "3394492.101763824420871314198812"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1744935409",
+        "totalValueLockedUSD": "3407838.384938784644188082016438"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745021601",
+        "totalValueLockedUSD": "3371343.633804700618010883795013"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745142192",
+        "totalValueLockedUSD": "3394897.446018144880187082763917"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745198107",
+        "totalValueLockedUSD": "3355127.296470075203172729824401"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745280024",
+        "totalValueLockedUSD": "3347639.969746940471692349732512"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745368793",
+        "totalValueLockedUSD": "3585901.003753243825560656932056"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745456766",
+        "totalValueLockedUSD": "3671489.901088975186662304142112"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745539958",
+        "totalValueLockedUSD": "3660242.344213624775961662342974"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745642044",
+        "totalValueLockedUSD": "3678984.047909688315282534222516"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745712424",
+        "totalValueLockedUSD": "3667707.557819839208281497723753"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745814480",
+        "totalValueLockedUSD": "3666885.750804238313217852900961"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745888947",
+        "totalValueLockedUSD": "3631737.133920663425176051254113"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1745984481",
+        "totalValueLockedUSD": "3682721.115706453995731325800205"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746061120",
+        "totalValueLockedUSD": "3655910.94355969358598136277402"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746146365",
+        "totalValueLockedUSD": "3711025.55737956788906936327515"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746231556",
+        "totalValueLockedUSD": "3707537.934442869473055074013915"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746324895",
+        "totalValueLockedUSD": "3665977.604607628563952809637898"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746408329",
+        "totalValueLockedUSD": "3623587.12647474309073583891372"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746504141",
+        "totalValueLockedUSD": "3596779.807556247897826570612614"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746582938",
+        "totalValueLockedUSD": "3553591.871603681879567169158274"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746665664",
+        "totalValueLockedUSD": "3541706.162350303202520875767499"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746753006",
+        "totalValueLockedUSD": "3920804.852191144888897865145374"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746836446",
+        "totalValueLockedUSD": "4316177.575902614186422440883409"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1746928466",
+        "totalValueLockedUSD": "4498853.865246038335189925194559"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747008106",
+        "totalValueLockedUSD": "4563452.602944706213872304718546"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747095022",
+        "totalValueLockedUSD": "4552603.473915617920844847897581"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747182577",
+        "totalValueLockedUSD": "4732464.867301445290223932918855"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747273459",
+        "totalValueLockedUSD": "4801970.459664631260381212513892"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747354629",
+        "totalValueLockedUSD": "4712156.84397106366524989033574"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747455086",
+        "totalValueLockedUSD": "4768168.723771767233498897982705"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747529588",
+        "totalValueLockedUSD": "4613205.779915508868088718035351"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747636746",
+        "totalValueLockedUSD": "4548177.492730531482277618020321"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747700281",
+        "totalValueLockedUSD": "4652444.849865715838709922353221"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747786591",
+        "totalValueLockedUSD": "4618175.00687084010476849008487"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747879076",
+        "totalValueLockedUSD": "4627645.210476165158474072036427"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1747965657",
+        "totalValueLockedUSD": "4848869.224818679376572631416095"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748047856",
+        "totalValueLockedUSD": "4718268.690236238033996242240824"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748132326",
+        "totalValueLockedUSD": "4707500.091421389601872684436282"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748223781",
+        "totalValueLockedUSD": "4632081.868717800019262108577714"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748311931",
+        "totalValueLockedUSD": "4704932.567499957637428678464346"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748390433",
+        "totalValueLockedUSD": "4830871.381447078861733386737116"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748481991",
+        "totalValueLockedUSD": "4814433.847126790448986090880052"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748565244",
+        "totalValueLockedUSD": "4794637.783428095928028021438075"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748657537",
+        "totalValueLockedUSD": "4637086.166475102561608022617109"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748740723",
+        "totalValueLockedUSD": "4604261.409405057197903763284824"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748826585",
+        "totalValueLockedUSD": "4588044.285365023705277690720115"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1748926192",
+        "totalValueLockedUSD": "4587908.506541341626829816593296"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749004240",
+        "totalValueLockedUSD": "4692730.601196870868800278792029"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749082228",
+        "totalValueLockedUSD": "4700707.409795367325694417627741"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749169477",
+        "totalValueLockedUSD": "4672789.670514394392483603950712"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749266013",
+        "totalValueLockedUSD": "4623705.356849842145798032033833"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749345997",
+        "totalValueLockedUSD": "4478970.530417776422191396891724"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749439784",
+        "totalValueLockedUSD": "4483868.993003577944204084136731"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749521294",
+        "totalValueLockedUSD": "4633981.365099357800852886671359"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749600005",
+        "totalValueLockedUSD": "4771138.894371126847691008434372"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749697115",
+        "totalValueLockedUSD": "4875307.266836618293224295377706"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749784033",
+        "totalValueLockedUSD": "4774907.334457659868824129403716"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749861122",
+        "totalValueLockedUSD": "4460240.79697358871248102582496"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1749949379",
+        "totalValueLockedUSD": "4431049.353140332204015790989292"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750043681",
+        "totalValueLockedUSD": "4426486.907355039360057060583403"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750124889",
+        "totalValueLockedUSD": "4590478.267477337452545516183743"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750218014",
+        "totalValueLockedUSD": "4363056.88491347300709181450477"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750300877",
+        "totalValueLockedUSD": "4365676.023344442805811515363063"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750383977",
+        "totalValueLockedUSD": "4374981.329441440536073434536881"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750466089",
+        "totalValueLockedUSD": "4346992.429149018447705633781597"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750559262",
+        "totalValueLockedUSD": "4117050.695836944707193806689104"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750638860",
+        "totalValueLockedUSD": "3981266.149560145643718982934948"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750744999",
+        "totalValueLockedUSD": "4036990.538062091588991557357035"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750811081",
+        "totalValueLockedUSD": "4242392.891759923730424857030235"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750897804",
+        "totalValueLockedUSD": "4248764.88015605434640815592898"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1750989671",
+        "totalValueLockedUSD": "4233442.029785310291521728044397"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751069545",
+        "totalValueLockedUSD": "4170330.76163057403771290781947"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751169642",
+        "totalValueLockedUSD": "4223054.568852929448983819726633"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751242033",
+        "totalValueLockedUSD": "4242300.399327331483000866650799"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751337235",
+        "totalValueLockedUSD": "4279221.121692534485480605985173"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751418028",
+        "totalValueLockedUSD": "4222111.223889824506558745462369"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751508689",
+        "totalValueLockedUSD": "4247831.24749908213344197393334"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751587324",
+        "totalValueLockedUSD": "4429622.710423810986938631644284"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751674462",
+        "totalValueLockedUSD": "4339876.334058281553219317287494"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751760103",
+        "totalValueLockedUSD": "4318051.307730971402068493180688"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751856068",
+        "totalValueLockedUSD": "4324893.124438404014363652727052"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1751936127",
+        "totalValueLockedUSD": "4342180.648640912112094445988956"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752030520",
+        "totalValueLockedUSD": "4370239.759411939385642518075435"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752118384",
+        "totalValueLockedUSD": "4546674.739736540571065460673417"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752195660",
+        "totalValueLockedUSD": "4732645.460781346733353093043567"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752287860",
+        "totalValueLockedUSD": "4898557.512222193710755452697747"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752365299",
+        "totalValueLockedUSD": "4863854.156770145686570370261649"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752452386",
+        "totalValueLockedUSD": "4936735.102743164003935843498806"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752546176",
+        "totalValueLockedUSD": "4977695.898836620348062869783278"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752625459",
+        "totalValueLockedUSD": "4990588.928276010941762484009731"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752711400",
+        "totalValueLockedUSD": "5225486.270002788973568982375815"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752800004",
+        "totalValueLockedUSD": "5204506.052710327598396511285313"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752900908",
+        "totalValueLockedUSD": "5297388.765188784360184681172779"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1752972080",
+        "totalValueLockedUSD": "5344150.774345740099817728218889"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753061220",
+        "totalValueLockedUSD": "5609128.923198790940694500345518"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753147170",
+        "totalValueLockedUSD": "5587884.239053729433713529865452"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753234598",
+        "totalValueLockedUSD": "5508756.592837610564921435187651"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753315336",
+        "totalValueLockedUSD": "5342796.110995929377452802682047"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753407375",
+        "totalValueLockedUSD": "5482689.344277845504536138816564"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753488638",
+        "totalValueLockedUSD": "5392345.5096656921478613157321"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753577777",
+        "totalValueLockedUSD": "5480240.558239604574255555917117"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753661169",
+        "totalValueLockedUSD": "5621896.781679044285475622379724"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753749110",
+        "totalValueLockedUSD": "5531187.089644539937169388987488"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753834792",
+        "totalValueLockedUSD": "5484451.919294786954365292537647"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1753924438",
+        "totalValueLockedUSD": "5472281.421541389177941609800086"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754011575",
+        "totalValueLockedUSD": "5395803.486268135371845089133031"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754107222",
+        "totalValueLockedUSD": "5112303.772547390715365540563856"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754179438",
+        "totalValueLockedUSD": "4995393.359166393443721355858854"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754267792",
+        "totalValueLockedUSD": "5021312.458385541129031499232797"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754363503",
+        "totalValueLockedUSD": "5316142.78484624428338753723138"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754459606",
+        "totalValueLockedUSD": "5170545.278511846345215448982305"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754526532",
+        "totalValueLockedUSD": "5195153.900687094488320900215139"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754614104",
+        "totalValueLockedUSD": "5417664.742291853232388798481609"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754701930",
+        "totalValueLockedUSD": "5611179.919782754402260328268867"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754789012",
+        "totalValueLockedUSD": "5906596.246463469909149899870169"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754872802",
+        "totalValueLockedUSD": "5810240.683544673455509692930271"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1754959409",
+        "totalValueLockedUSD": "5796499.716013436319970307221343"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755051443",
+        "totalValueLockedUSD": "6105515.755003398981138119146099"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755137025",
+        "totalValueLockedUSD": "6396623.276360042760974608891895"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755223081",
+        "totalValueLockedUSD": "6179446.29458645277132121015479"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755302994",
+        "totalValueLockedUSD": "6032384.86621003329656849962123"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755416420",
+        "totalValueLockedUSD": "6010544.017099261090657894672019"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755480278",
+        "totalValueLockedUSD": "6019904.251946114352067153361066"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755570257",
+        "totalValueLockedUSD": "5875540.363887993666934915345935"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755662753",
+        "totalValueLockedUSD": "5684264.618412445734415540526604"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755737392",
+        "totalValueLockedUSD": "5756001.197845870225621166738816"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755822697",
+        "totalValueLockedUSD": "5603383.146225013992495297941123"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755912536",
+        "totalValueLockedUSD": "6093599.309219414283662814825896"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1755995820",
+        "totalValueLockedUSD": "6220525.363377708505625482761081"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756093141",
+        "totalValueLockedUSD": "6397317.870360199824099537116414"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756179287",
+        "totalValueLockedUSD": "5991378.948082896901368584235091"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756268951",
+        "totalValueLockedUSD": "5810430.365279954296450734736183"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756353044",
+        "totalValueLockedUSD": "6064261.684127676004720444780635"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756426295",
+        "totalValueLockedUSD": "5954060.647437484846464601149454"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756512567",
+        "totalValueLockedUSD": "5695853.248700354415858170844875"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756598857",
+        "totalValueLockedUSD": "5682921.434041391086054506513992"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756703726",
+        "totalValueLockedUSD": "5799977.59405014140413883198172"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756774617",
+        "totalValueLockedUSD": "5605854.916698334177217060304451"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756880403",
+        "totalValueLockedUSD": "5589643.426285904668982504276431"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1756962420",
+        "totalValueLockedUSD": "5793728.812295556969520590242554"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757048663",
+        "totalValueLockedUSD": "5646652.508701541400074010026399"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757128780",
+        "totalValueLockedUSD": "5580338.912721914472437190206215"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757225502",
+        "totalValueLockedUSD": "5565171.585097247570289298472539"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757293401",
+        "totalValueLockedUSD": "5576877.831495594006765444841316"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757399000",
+        "totalValueLockedUSD": "5603199.447466788839042758838845"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757468703",
+        "totalValueLockedUSD": "5601023.314600371632802520259451"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757551524",
+        "totalValueLockedUSD": "5614348.227391547173731346210899"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757635674",
+        "totalValueLockedUSD": "5692680.515145508847335155801212"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757726689",
+        "totalValueLockedUSD": "5931020.65887540482879927742417"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757812874",
+        "totalValueLockedUSD": "5979664.417552792009816712989848"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757897754",
+        "totalValueLockedUSD": "5900820.515518496668752349628376"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1757994255",
+        "totalValueLockedUSD": "5739986.121194947395928060094157"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1758071127",
+        "totalValueLockedUSD": "5743251.388412786040694528855014"
+      },
+      {
+        "dailyTotalRevenueUSD": "0",
+        "timestamp": "1758162427",
+        "totalValueLockedUSD": "5779227.174026475449622786223914"
+      }
+    ]
+  }
+}

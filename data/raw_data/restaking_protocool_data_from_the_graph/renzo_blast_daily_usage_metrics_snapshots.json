@@ -1,0 +1,3342 @@
+{
+  "data": {
+    "usageMetricsDailySnapshots": [
+      {
+        "dailyActiveUsers": 0,
+        "dailyTransactionCount": 0,
+        "timestamp": "1710266357",
+        "totalPoolCount": 0
+      },
+      {
+        "dailyActiveUsers": 14,
+        "dailyTransactionCount": 78,
+        "timestamp": "1710288131",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 100,
+        "dailyTransactionCount": 598,
+        "timestamp": "1710374449",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 142,
+        "dailyTransactionCount": 842,
+        "timestamp": "1710460805",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 171,
+        "dailyTransactionCount": 1010,
+        "timestamp": "1710547303",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 185,
+        "dailyTransactionCount": 954,
+        "timestamp": "1710633925",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 179,
+        "dailyTransactionCount": 1114,
+        "timestamp": "1710720493",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 212,
+        "dailyTransactionCount": 1010,
+        "timestamp": "1710806471",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 378,
+        "dailyTransactionCount": 2334,
+        "timestamp": "1710893347",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 438,
+        "dailyTransactionCount": 2238,
+        "timestamp": "1710979493",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 831,
+        "dailyTransactionCount": 4428,
+        "timestamp": "1711065899",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 759,
+        "dailyTransactionCount": 3580,
+        "timestamp": "1711152059",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1015,
+        "dailyTransactionCount": 6128,
+        "timestamp": "1711238403",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 881,
+        "dailyTransactionCount": 5832,
+        "timestamp": "1711324801",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1316,
+        "dailyTransactionCount": 9324,
+        "timestamp": "1711411213",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1391,
+        "dailyTransactionCount": 11072,
+        "timestamp": "1711497619",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2715,
+        "dailyTransactionCount": 24134,
+        "timestamp": "1711584009",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1540,
+        "dailyTransactionCount": 14968,
+        "timestamp": "1711670401",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1320,
+        "dailyTransactionCount": 16576,
+        "timestamp": "1711756807",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2005,
+        "dailyTransactionCount": 21960,
+        "timestamp": "1711843267",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1159,
+        "dailyTransactionCount": 15968,
+        "timestamp": "1711929621",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1311,
+        "dailyTransactionCount": 11650,
+        "timestamp": "1712016021",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2142,
+        "dailyTransactionCount": 14798,
+        "timestamp": "1712102491",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1885,
+        "dailyTransactionCount": 12952,
+        "timestamp": "1712188805",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1661,
+        "dailyTransactionCount": 14906,
+        "timestamp": "1712275207",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2805,
+        "dailyTransactionCount": 20722,
+        "timestamp": "1712361675",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2405,
+        "dailyTransactionCount": 16526,
+        "timestamp": "1712448031",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1861,
+        "dailyTransactionCount": 14302,
+        "timestamp": "1712534401",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2287,
+        "dailyTransactionCount": 16440,
+        "timestamp": "1712620803",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1481,
+        "dailyTransactionCount": 11978,
+        "timestamp": "1712707273",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1618,
+        "dailyTransactionCount": 13820,
+        "timestamp": "1712793741",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1633,
+        "dailyTransactionCount": 15702,
+        "timestamp": "1712880005",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1602,
+        "dailyTransactionCount": 14630,
+        "timestamp": "1712966415",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1284,
+        "dailyTransactionCount": 9154,
+        "timestamp": "1713052853",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1842,
+        "dailyTransactionCount": 11964,
+        "timestamp": "1713139217",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1268,
+        "dailyTransactionCount": 10796,
+        "timestamp": "1713225675",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 874,
+        "dailyTransactionCount": 7544,
+        "timestamp": "1713312079",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 722,
+        "dailyTransactionCount": 5192,
+        "timestamp": "1713398413",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1606,
+        "dailyTransactionCount": 7844,
+        "timestamp": "1713484993",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 873,
+        "dailyTransactionCount": 7272,
+        "timestamp": "1713571245",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1155,
+        "dailyTransactionCount": 9322,
+        "timestamp": "1713657661",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 992,
+        "dailyTransactionCount": 10804,
+        "timestamp": "1713744027",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1508,
+        "dailyTransactionCount": 13602,
+        "timestamp": "1713830445",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1202,
+        "dailyTransactionCount": 14470,
+        "timestamp": "1713916837",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1819,
+        "dailyTransactionCount": 33380,
+        "timestamp": "1714003201",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2621,
+        "dailyTransactionCount": 32814,
+        "timestamp": "1714089619",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1260,
+        "dailyTransactionCount": 14928,
+        "timestamp": "1714176005",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1066,
+        "dailyTransactionCount": 13176,
+        "timestamp": "1714262407",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1193,
+        "dailyTransactionCount": 11544,
+        "timestamp": "1714348977",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2217,
+        "dailyTransactionCount": 13936,
+        "timestamp": "1714435451",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 921,
+        "dailyTransactionCount": 8100,
+        "timestamp": "1714521627",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 886,
+        "dailyTransactionCount": 8036,
+        "timestamp": "1714608057",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 860,
+        "dailyTransactionCount": 7818,
+        "timestamp": "1714694457",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1024,
+        "dailyTransactionCount": 7750,
+        "timestamp": "1714780849",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2139,
+        "dailyTransactionCount": 10900,
+        "timestamp": "1714867225",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1323,
+        "dailyTransactionCount": 10130,
+        "timestamp": "1714953643",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1459,
+        "dailyTransactionCount": 11472,
+        "timestamp": "1715040001",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1132,
+        "dailyTransactionCount": 9094,
+        "timestamp": "1715126419",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 958,
+        "dailyTransactionCount": 8896,
+        "timestamp": "1715212839",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 938,
+        "dailyTransactionCount": 8220,
+        "timestamp": "1715299239",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1026,
+        "dailyTransactionCount": 10566,
+        "timestamp": "1715385601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 630,
+        "dailyTransactionCount": 5862,
+        "timestamp": "1715472123",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 697,
+        "dailyTransactionCount": 5446,
+        "timestamp": "1715558763",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1742,
+        "dailyTransactionCount": 7286,
+        "timestamp": "1715644887",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1732,
+        "dailyTransactionCount": 6734,
+        "timestamp": "1715731481",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 599,
+        "dailyTransactionCount": 6074,
+        "timestamp": "1715817625",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 668,
+        "dailyTransactionCount": 6972,
+        "timestamp": "1715904137",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 616,
+        "dailyTransactionCount": 4846,
+        "timestamp": "1715990713",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 550,
+        "dailyTransactionCount": 6864,
+        "timestamp": "1716076977",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 630,
+        "dailyTransactionCount": 5704,
+        "timestamp": "1716163243",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 735,
+        "dailyTransactionCount": 5684,
+        "timestamp": "1716249633",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1069,
+        "dailyTransactionCount": 10864,
+        "timestamp": "1716336145",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 852,
+        "dailyTransactionCount": 7462,
+        "timestamp": "1716422531",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 554,
+        "dailyTransactionCount": 5526,
+        "timestamp": "1716508909",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 593,
+        "dailyTransactionCount": 4682,
+        "timestamp": "1716595571",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 523,
+        "dailyTransactionCount": 5276,
+        "timestamp": "1716681629",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 619,
+        "dailyTransactionCount": 6238,
+        "timestamp": "1716768007",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 705,
+        "dailyTransactionCount": 5942,
+        "timestamp": "1716854533",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 757,
+        "dailyTransactionCount": 6100,
+        "timestamp": "1716940981",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 829,
+        "dailyTransactionCount": 5276,
+        "timestamp": "1717027245",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 623,
+        "dailyTransactionCount": 4728,
+        "timestamp": "1717113607",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 858,
+        "dailyTransactionCount": 4436,
+        "timestamp": "1717200891",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 541,
+        "dailyTransactionCount": 3748,
+        "timestamp": "1717286565",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 859,
+        "dailyTransactionCount": 13322,
+        "timestamp": "1717372837",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 953,
+        "dailyTransactionCount": 9248,
+        "timestamp": "1717459273",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 735,
+        "dailyTransactionCount": 7408,
+        "timestamp": "1717545605",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 799,
+        "dailyTransactionCount": 10854,
+        "timestamp": "1717632887",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 885,
+        "dailyTransactionCount": 12390,
+        "timestamp": "1717718407",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1110,
+        "dailyTransactionCount": 8000,
+        "timestamp": "1717804803",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1140,
+        "dailyTransactionCount": 6246,
+        "timestamp": "1717891243",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 948,
+        "dailyTransactionCount": 7486,
+        "timestamp": "1717977615",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 980,
+        "dailyTransactionCount": 7062,
+        "timestamp": "1718064125",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1115,
+        "dailyTransactionCount": 6766,
+        "timestamp": "1718150453",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1653,
+        "dailyTransactionCount": 8524,
+        "timestamp": "1718236891",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1811,
+        "dailyTransactionCount": 19598,
+        "timestamp": "1718323205",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4450,
+        "dailyTransactionCount": 28708,
+        "timestamp": "1718409607",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 6584,
+        "dailyTransactionCount": 33820,
+        "timestamp": "1718496021",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4505,
+        "dailyTransactionCount": 24848,
+        "timestamp": "1718582403",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4056,
+        "dailyTransactionCount": 18964,
+        "timestamp": "1718668807",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4286,
+        "dailyTransactionCount": 20158,
+        "timestamp": "1718755205",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4168,
+        "dailyTransactionCount": 21792,
+        "timestamp": "1718841601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 5271,
+        "dailyTransactionCount": 34284,
+        "timestamp": "1718928011",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4822,
+        "dailyTransactionCount": 23990,
+        "timestamp": "1719014415",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4779,
+        "dailyTransactionCount": 32240,
+        "timestamp": "1719100833",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 3868,
+        "dailyTransactionCount": 21692,
+        "timestamp": "1719187219",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2842,
+        "dailyTransactionCount": 17386,
+        "timestamp": "1719273607",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 3756,
+        "dailyTransactionCount": 21858,
+        "timestamp": "1719360011",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 3393,
+        "dailyTransactionCount": 19122,
+        "timestamp": "1719446415",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 6043,
+        "dailyTransactionCount": 30736,
+        "timestamp": "1719532823",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4844,
+        "dailyTransactionCount": 23860,
+        "timestamp": "1719619239",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 3605,
+        "dailyTransactionCount": 17360,
+        "timestamp": "1719705665",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2173,
+        "dailyTransactionCount": 13190,
+        "timestamp": "1719792027",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2078,
+        "dailyTransactionCount": 16622,
+        "timestamp": "1719878473",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1965,
+        "dailyTransactionCount": 10692,
+        "timestamp": "1719964843",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 2009,
+        "dailyTransactionCount": 11312,
+        "timestamp": "1720051215",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1975,
+        "dailyTransactionCount": 11390,
+        "timestamp": "1720137647",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1849,
+        "dailyTransactionCount": 10780,
+        "timestamp": "1720224013",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1736,
+        "dailyTransactionCount": 10148,
+        "timestamp": "1720310409",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1424,
+        "dailyTransactionCount": 10106,
+        "timestamp": "1720396899",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1712,
+        "dailyTransactionCount": 9646,
+        "timestamp": "1720483221",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1583,
+        "dailyTransactionCount": 8394,
+        "timestamp": "1720569711",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 3043,
+        "dailyTransactionCount": 10234,
+        "timestamp": "1720656511",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 4309,
+        "dailyTransactionCount": 11856,
+        "timestamp": "1720742437",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1272,
+        "dailyTransactionCount": 7284,
+        "timestamp": "1720828807",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1347,
+        "dailyTransactionCount": 7214,
+        "timestamp": "1720915387",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1039,
+        "dailyTransactionCount": 5942,
+        "timestamp": "1721001891",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 1146,
+        "dailyTransactionCount": 6364,
+        "timestamp": "1721088061",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 942,
+        "dailyTransactionCount": 5888,
+        "timestamp": "1721174579",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 944,
+        "dailyTransactionCount": 5164,
+        "timestamp": "1721260935",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 791,
+        "dailyTransactionCount": 4782,
+        "timestamp": "1721347381",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 855,
+        "dailyTransactionCount": 5418,
+        "timestamp": "1721433601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 805,
+        "dailyTransactionCount": 5476,
+        "timestamp": "1721520057",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 841,
+        "dailyTransactionCount": 5646,
+        "timestamp": "1721606473",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 872,
+        "dailyTransactionCount": 6078,
+        "timestamp": "1721692811",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 419,
+        "dailyTransactionCount": 3958,
+        "timestamp": "1721779627",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 412,
+        "dailyTransactionCount": 4244,
+        "timestamp": "1721865623",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 439,
+        "dailyTransactionCount": 4516,
+        "timestamp": "1721952185",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 440,
+        "dailyTransactionCount": 3876,
+        "timestamp": "1722038493",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 417,
+        "dailyTransactionCount": 3364,
+        "timestamp": "1722124835",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 414,
+        "dailyTransactionCount": 2358,
+        "timestamp": "1722211821",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 520,
+        "dailyTransactionCount": 3380,
+        "timestamp": "1722297611",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 418,
+        "dailyTransactionCount": 2830,
+        "timestamp": "1722384037",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 582,
+        "dailyTransactionCount": 3602,
+        "timestamp": "1722470405",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 403,
+        "dailyTransactionCount": 3908,
+        "timestamp": "1722557019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 382,
+        "dailyTransactionCount": 4146,
+        "timestamp": "1722643221",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 371,
+        "dailyTransactionCount": 2792,
+        "timestamp": "1722730569",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 366,
+        "dailyTransactionCount": 2622,
+        "timestamp": "1722816007",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 362,
+        "dailyTransactionCount": 8896,
+        "timestamp": "1722902425",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 403,
+        "dailyTransactionCount": 2468,
+        "timestamp": "1722988973",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 350,
+        "dailyTransactionCount": 3076,
+        "timestamp": "1723075287",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 387,
+        "dailyTransactionCount": 2984,
+        "timestamp": "1723161737",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 399,
+        "dailyTransactionCount": 3536,
+        "timestamp": "1723248061",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 350,
+        "dailyTransactionCount": 2596,
+        "timestamp": "1723334455",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 338,
+        "dailyTransactionCount": 2800,
+        "timestamp": "1723421483",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 395,
+        "dailyTransactionCount": 3704,
+        "timestamp": "1723507227",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 418,
+        "dailyTransactionCount": 3222,
+        "timestamp": "1723593625",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 369,
+        "dailyTransactionCount": 2862,
+        "timestamp": "1723680059",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 351,
+        "dailyTransactionCount": 2726,
+        "timestamp": "1723766485",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 367,
+        "dailyTransactionCount": 2440,
+        "timestamp": "1723852807",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 378,
+        "dailyTransactionCount": 2096,
+        "timestamp": "1723940619",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 348,
+        "dailyTransactionCount": 1660,
+        "timestamp": "1724025707",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 296,
+        "dailyTransactionCount": 1956,
+        "timestamp": "1724112147",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 324,
+        "dailyTransactionCount": 2138,
+        "timestamp": "1724198413",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 340,
+        "dailyTransactionCount": 2250,
+        "timestamp": "1724284905",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 758,
+        "dailyTransactionCount": 2482,
+        "timestamp": "1724371217",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 258,
+        "dailyTransactionCount": 1030,
+        "timestamp": "1724458145",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 265,
+        "dailyTransactionCount": 1294,
+        "timestamp": "1724544015",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 285,
+        "dailyTransactionCount": 1372,
+        "timestamp": "1724630463",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 332,
+        "dailyTransactionCount": 1964,
+        "timestamp": "1724717015",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 291,
+        "dailyTransactionCount": 1592,
+        "timestamp": "1724803587",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 284,
+        "dailyTransactionCount": 1272,
+        "timestamp": "1724889779",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 290,
+        "dailyTransactionCount": 1450,
+        "timestamp": "1724979535",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 236,
+        "dailyTransactionCount": 924,
+        "timestamp": "1725063393",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 217,
+        "dailyTransactionCount": 940,
+        "timestamp": "1725149887",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 180,
+        "dailyTransactionCount": 864,
+        "timestamp": "1725236185",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 201,
+        "dailyTransactionCount": 974,
+        "timestamp": "1725321665",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 234,
+        "dailyTransactionCount": 972,
+        "timestamp": "1725408595",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 234,
+        "dailyTransactionCount": 1440,
+        "timestamp": "1725494997",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 206,
+        "dailyTransactionCount": 1174,
+        "timestamp": "1725580969",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 201,
+        "dailyTransactionCount": 970,
+        "timestamp": "1725667841",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 192,
+        "dailyTransactionCount": 1100,
+        "timestamp": "1725755021",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 184,
+        "dailyTransactionCount": 770,
+        "timestamp": "1725842395",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 186,
+        "dailyTransactionCount": 734,
+        "timestamp": "1725926745",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 183,
+        "dailyTransactionCount": 714,
+        "timestamp": "1726015341",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 149,
+        "dailyTransactionCount": 596,
+        "timestamp": "1726100055",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 181,
+        "dailyTransactionCount": 764,
+        "timestamp": "1726186757",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 139,
+        "dailyTransactionCount": 516,
+        "timestamp": "1726274089",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 148,
+        "dailyTransactionCount": 670,
+        "timestamp": "1726359377",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 181,
+        "dailyTransactionCount": 820,
+        "timestamp": "1726444879",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 146,
+        "dailyTransactionCount": 588,
+        "timestamp": "1726532077",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 167,
+        "dailyTransactionCount": 972,
+        "timestamp": "1726617841",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 152,
+        "dailyTransactionCount": 646,
+        "timestamp": "1726704113",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 216,
+        "dailyTransactionCount": 916,
+        "timestamp": "1726790605",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 260,
+        "dailyTransactionCount": 1280,
+        "timestamp": "1726877121",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 272,
+        "dailyTransactionCount": 1326,
+        "timestamp": "1726963313",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 254,
+        "dailyTransactionCount": 1142,
+        "timestamp": "1727049687",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 237,
+        "dailyTransactionCount": 1226,
+        "timestamp": "1727136521",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 279,
+        "dailyTransactionCount": 1516,
+        "timestamp": "1727222887",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 296,
+        "dailyTransactionCount": 1554,
+        "timestamp": "1727309257",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 346,
+        "dailyTransactionCount": 3566,
+        "timestamp": "1727395439",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 278,
+        "dailyTransactionCount": 2254,
+        "timestamp": "1727481625",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 256,
+        "dailyTransactionCount": 1130,
+        "timestamp": "1727568641",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 276,
+        "dailyTransactionCount": 2982,
+        "timestamp": "1727654475",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 248,
+        "dailyTransactionCount": 2160,
+        "timestamp": "1727741349",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 210,
+        "dailyTransactionCount": 1302,
+        "timestamp": "1727827957",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 254,
+        "dailyTransactionCount": 1716,
+        "timestamp": "1727913809",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 207,
+        "dailyTransactionCount": 872,
+        "timestamp": "1728000869",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 178,
+        "dailyTransactionCount": 704,
+        "timestamp": "1728087697",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 193,
+        "dailyTransactionCount": 914,
+        "timestamp": "1728173601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 196,
+        "dailyTransactionCount": 856,
+        "timestamp": "1728259553",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 170,
+        "dailyTransactionCount": 852,
+        "timestamp": "1728345949",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 149,
+        "dailyTransactionCount": 790,
+        "timestamp": "1728432019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 430,
+        "dailyTransactionCount": 2060,
+        "timestamp": "1728518421",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 283,
+        "dailyTransactionCount": 1216,
+        "timestamp": "1728605125",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 274,
+        "dailyTransactionCount": 1690,
+        "timestamp": "1728691863",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 239,
+        "dailyTransactionCount": 1160,
+        "timestamp": "1728780463",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 247,
+        "dailyTransactionCount": 1172,
+        "timestamp": "1728864493",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 199,
+        "dailyTransactionCount": 856,
+        "timestamp": "1728952047",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 236,
+        "dailyTransactionCount": 1384,
+        "timestamp": "1729037153",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 231,
+        "dailyTransactionCount": 934,
+        "timestamp": "1729123753",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 283,
+        "dailyTransactionCount": 1322,
+        "timestamp": "1729211735",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 238,
+        "dailyTransactionCount": 1398,
+        "timestamp": "1729296337",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 219,
+        "dailyTransactionCount": 838,
+        "timestamp": "1729382711",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 229,
+        "dailyTransactionCount": 1106,
+        "timestamp": "1729469839",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 224,
+        "dailyTransactionCount": 1036,
+        "timestamp": "1729555907",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 196,
+        "dailyTransactionCount": 990,
+        "timestamp": "1729641607",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 198,
+        "dailyTransactionCount": 952,
+        "timestamp": "1729728357",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 227,
+        "dailyTransactionCount": 898,
+        "timestamp": "1729816587",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 187,
+        "dailyTransactionCount": 1240,
+        "timestamp": "1729900853",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 155,
+        "dailyTransactionCount": 626,
+        "timestamp": "1729987951",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 187,
+        "dailyTransactionCount": 1170,
+        "timestamp": "1730073605",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 230,
+        "dailyTransactionCount": 958,
+        "timestamp": "1730160071",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 200,
+        "dailyTransactionCount": 948,
+        "timestamp": "1730246755",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 195,
+        "dailyTransactionCount": 1056,
+        "timestamp": "1730333541",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 205,
+        "dailyTransactionCount": 928,
+        "timestamp": "1730419331",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 171,
+        "dailyTransactionCount": 786,
+        "timestamp": "1730505967",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 188,
+        "dailyTransactionCount": 826,
+        "timestamp": "1730592285",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 158,
+        "dailyTransactionCount": 758,
+        "timestamp": "1730678611",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 161,
+        "dailyTransactionCount": 706,
+        "timestamp": "1730765285",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 153,
+        "dailyTransactionCount": 712,
+        "timestamp": "1730852985",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 164,
+        "dailyTransactionCount": 932,
+        "timestamp": "1730937949",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 184,
+        "dailyTransactionCount": 996,
+        "timestamp": "1731024055",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 189,
+        "dailyTransactionCount": 938,
+        "timestamp": "1731110463",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 177,
+        "dailyTransactionCount": 1048,
+        "timestamp": "1731196827",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 217,
+        "dailyTransactionCount": 1502,
+        "timestamp": "1731283519",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 226,
+        "dailyTransactionCount": 1614,
+        "timestamp": "1731369761",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 197,
+        "dailyTransactionCount": 1378,
+        "timestamp": "1731456131",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 196,
+        "dailyTransactionCount": 1262,
+        "timestamp": "1731542765",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 173,
+        "dailyTransactionCount": 864,
+        "timestamp": "1731628805",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 168,
+        "dailyTransactionCount": 1008,
+        "timestamp": "1731715301",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 138,
+        "dailyTransactionCount": 818,
+        "timestamp": "1731801977",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 187,
+        "dailyTransactionCount": 1140,
+        "timestamp": "1731888311",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 169,
+        "dailyTransactionCount": 1114,
+        "timestamp": "1731974697",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 166,
+        "dailyTransactionCount": 774,
+        "timestamp": "1732061875",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 153,
+        "dailyTransactionCount": 930,
+        "timestamp": "1732148305",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 193,
+        "dailyTransactionCount": 1428,
+        "timestamp": "1732233861",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 163,
+        "dailyTransactionCount": 956,
+        "timestamp": "1732320363",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 150,
+        "dailyTransactionCount": 856,
+        "timestamp": "1732407111",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 141,
+        "dailyTransactionCount": 744,
+        "timestamp": "1732493123",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 174,
+        "dailyTransactionCount": 1586,
+        "timestamp": "1732579341",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 144,
+        "dailyTransactionCount": 1182,
+        "timestamp": "1732665971",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 174,
+        "dailyTransactionCount": 1358,
+        "timestamp": "1732752113",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 183,
+        "dailyTransactionCount": 1132,
+        "timestamp": "1732840281",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 187,
+        "dailyTransactionCount": 834,
+        "timestamp": "1732925239",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 208,
+        "dailyTransactionCount": 1196,
+        "timestamp": "1733012147",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 190,
+        "dailyTransactionCount": 958,
+        "timestamp": "1733097671",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 200,
+        "dailyTransactionCount": 1282,
+        "timestamp": "1733185525",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 179,
+        "dailyTransactionCount": 1092,
+        "timestamp": "1733270471",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 199,
+        "dailyTransactionCount": 1184,
+        "timestamp": "1733357181",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 212,
+        "dailyTransactionCount": 1038,
+        "timestamp": "1733443471",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 233,
+        "dailyTransactionCount": 1150,
+        "timestamp": "1733529779",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 240,
+        "dailyTransactionCount": 1074,
+        "timestamp": "1733616385",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 193,
+        "dailyTransactionCount": 860,
+        "timestamp": "1733703767",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 221,
+        "dailyTransactionCount": 1316,
+        "timestamp": "1733788821",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 210,
+        "dailyTransactionCount": 1454,
+        "timestamp": "1733875391",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 209,
+        "dailyTransactionCount": 1400,
+        "timestamp": "1733962585",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 229,
+        "dailyTransactionCount": 1146,
+        "timestamp": "1734048289",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 194,
+        "dailyTransactionCount": 844,
+        "timestamp": "1734134491",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 253,
+        "dailyTransactionCount": 1052,
+        "timestamp": "1734221045",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 256,
+        "dailyTransactionCount": 1010,
+        "timestamp": "1734307213",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 234,
+        "dailyTransactionCount": 1078,
+        "timestamp": "1734393849",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 173,
+        "dailyTransactionCount": 670,
+        "timestamp": "1734480531",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 201,
+        "dailyTransactionCount": 1386,
+        "timestamp": "1734566717",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 183,
+        "dailyTransactionCount": 1546,
+        "timestamp": "1734653525",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 178,
+        "dailyTransactionCount": 1794,
+        "timestamp": "1734740139",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 175,
+        "dailyTransactionCount": 2096,
+        "timestamp": "1734825663",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 210,
+        "dailyTransactionCount": 1514,
+        "timestamp": "1734912581",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 187,
+        "dailyTransactionCount": 1462,
+        "timestamp": "1734998551",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 158,
+        "dailyTransactionCount": 898,
+        "timestamp": "1735085143",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 194,
+        "dailyTransactionCount": 1078,
+        "timestamp": "1735171405",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 240,
+        "dailyTransactionCount": 1360,
+        "timestamp": "1735257993",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 212,
+        "dailyTransactionCount": 1166,
+        "timestamp": "1735345587",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 197,
+        "dailyTransactionCount": 928,
+        "timestamp": "1735430463",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 228,
+        "dailyTransactionCount": 1124,
+        "timestamp": "1735516817",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 179,
+        "dailyTransactionCount": 1006,
+        "timestamp": "1735603511",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 171,
+        "dailyTransactionCount": 824,
+        "timestamp": "1735689729",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 168,
+        "dailyTransactionCount": 972,
+        "timestamp": "1735776017",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 198,
+        "dailyTransactionCount": 1030,
+        "timestamp": "1735865067",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 177,
+        "dailyTransactionCount": 962,
+        "timestamp": "1735948917",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 215,
+        "dailyTransactionCount": 964,
+        "timestamp": "1736035273",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 206,
+        "dailyTransactionCount": 758,
+        "timestamp": "1736122429",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 190,
+        "dailyTransactionCount": 892,
+        "timestamp": "1736208941",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 189,
+        "dailyTransactionCount": 1090,
+        "timestamp": "1736295153",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 170,
+        "dailyTransactionCount": 1118,
+        "timestamp": "1736381345",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 161,
+        "dailyTransactionCount": 1260,
+        "timestamp": "1736467637",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 172,
+        "dailyTransactionCount": 964,
+        "timestamp": "1736554343",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 157,
+        "dailyTransactionCount": 872,
+        "timestamp": "1736640019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 143,
+        "dailyTransactionCount": 780,
+        "timestamp": "1736726459",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 217,
+        "dailyTransactionCount": 2250,
+        "timestamp": "1736813085",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 146,
+        "dailyTransactionCount": 796,
+        "timestamp": "1736899339",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 127,
+        "dailyTransactionCount": 986,
+        "timestamp": "1736985623",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 162,
+        "dailyTransactionCount": 1056,
+        "timestamp": "1737072389",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 167,
+        "dailyTransactionCount": 1006,
+        "timestamp": "1737161507",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 124,
+        "dailyTransactionCount": 1060,
+        "timestamp": "1737244955",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 205,
+        "dailyTransactionCount": 2486,
+        "timestamp": "1737331203",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 216,
+        "dailyTransactionCount": 2128,
+        "timestamp": "1737417913",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 179,
+        "dailyTransactionCount": 1228,
+        "timestamp": "1737504119",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 164,
+        "dailyTransactionCount": 918,
+        "timestamp": "1737590977",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 145,
+        "dailyTransactionCount": 1030,
+        "timestamp": "1737676877",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 243,
+        "dailyTransactionCount": 1480,
+        "timestamp": "1737763999",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 227,
+        "dailyTransactionCount": 1106,
+        "timestamp": "1737849907",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 166,
+        "dailyTransactionCount": 890,
+        "timestamp": "1737936057",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 195,
+        "dailyTransactionCount": 1500,
+        "timestamp": "1738022447",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 164,
+        "dailyTransactionCount": 1052,
+        "timestamp": "1738108827",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 129,
+        "dailyTransactionCount": 964,
+        "timestamp": "1738195629",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 181,
+        "dailyTransactionCount": 1000,
+        "timestamp": "1738281775",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 174,
+        "dailyTransactionCount": 1088,
+        "timestamp": "1738368311",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 143,
+        "dailyTransactionCount": 910,
+        "timestamp": "1738454539",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 173,
+        "dailyTransactionCount": 1432,
+        "timestamp": "1738540847",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 125,
+        "dailyTransactionCount": 1052,
+        "timestamp": "1738630257",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 114,
+        "dailyTransactionCount": 796,
+        "timestamp": "1738717459",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 106,
+        "dailyTransactionCount": 524,
+        "timestamp": "1738801141",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 110,
+        "dailyTransactionCount": 608,
+        "timestamp": "1738887377",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 121,
+        "dailyTransactionCount": 730,
+        "timestamp": "1738972857",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 117,
+        "dailyTransactionCount": 444,
+        "timestamp": "1739062999",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 173,
+        "dailyTransactionCount": 834,
+        "timestamp": "1739145725",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 138,
+        "dailyTransactionCount": 646,
+        "timestamp": "1739232129",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 183,
+        "dailyTransactionCount": 844,
+        "timestamp": "1739319659",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 135,
+        "dailyTransactionCount": 698,
+        "timestamp": "1739405419",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 118,
+        "dailyTransactionCount": 624,
+        "timestamp": "1739492605",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 180,
+        "dailyTransactionCount": 654,
+        "timestamp": "1739580625",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 120,
+        "dailyTransactionCount": 506,
+        "timestamp": "1739664205",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 127,
+        "dailyTransactionCount": 484,
+        "timestamp": "1739753281",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 140,
+        "dailyTransactionCount": 804,
+        "timestamp": "1739837253",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 108,
+        "dailyTransactionCount": 560,
+        "timestamp": "1739923507",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 113,
+        "dailyTransactionCount": 568,
+        "timestamp": "1740010191",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 121,
+        "dailyTransactionCount": 594,
+        "timestamp": "1740096821",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 87,
+        "dailyTransactionCount": 686,
+        "timestamp": "1740184389",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 110,
+        "dailyTransactionCount": 524,
+        "timestamp": "1740274155",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 102,
+        "dailyTransactionCount": 686,
+        "timestamp": "1740355945",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 104,
+        "dailyTransactionCount": 702,
+        "timestamp": "1740441743",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 118,
+        "dailyTransactionCount": 546,
+        "timestamp": "1740528699",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 113,
+        "dailyTransactionCount": 530,
+        "timestamp": "1740614805",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 147,
+        "dailyTransactionCount": 576,
+        "timestamp": "1740701189",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 161,
+        "dailyTransactionCount": 768,
+        "timestamp": "1740787409",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 84,
+        "dailyTransactionCount": 420,
+        "timestamp": "1740874089",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 147,
+        "dailyTransactionCount": 610,
+        "timestamp": "1740960407",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 105,
+        "dailyTransactionCount": 642,
+        "timestamp": "1741050321",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 258,
+        "dailyTransactionCount": 934,
+        "timestamp": "1741133199",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 102,
+        "dailyTransactionCount": 440,
+        "timestamp": "1741220261",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 91,
+        "dailyTransactionCount": 344,
+        "timestamp": "1741306909",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 82,
+        "dailyTransactionCount": 376,
+        "timestamp": "1741392187",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 79,
+        "dailyTransactionCount": 340,
+        "timestamp": "1741480769",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 304,
+        "timestamp": "1741566753",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 105,
+        "dailyTransactionCount": 596,
+        "timestamp": "1741652571",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 83,
+        "dailyTransactionCount": 468,
+        "timestamp": "1741740221",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 100,
+        "dailyTransactionCount": 502,
+        "timestamp": "1741830667",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 79,
+        "dailyTransactionCount": 302,
+        "timestamp": "1741914975",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 78,
+        "dailyTransactionCount": 250,
+        "timestamp": "1741998433",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 230,
+        "timestamp": "1742086123",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 80,
+        "dailyTransactionCount": 310,
+        "timestamp": "1742174525",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 79,
+        "dailyTransactionCount": 262,
+        "timestamp": "1742257473",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 230,
+        "timestamp": "1742343601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 108,
+        "dailyTransactionCount": 538,
+        "timestamp": "1742430053",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 124,
+        "dailyTransactionCount": 548,
+        "timestamp": "1742515953",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 81,
+        "dailyTransactionCount": 354,
+        "timestamp": "1742601655",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 106,
+        "dailyTransactionCount": 432,
+        "timestamp": "1742691125",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 230,
+        "timestamp": "1742780035",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 86,
+        "dailyTransactionCount": 356,
+        "timestamp": "1742862753",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 228,
+        "timestamp": "1742952897",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 298,
+        "timestamp": "1743034849",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 116,
+        "dailyTransactionCount": 450,
+        "timestamp": "1743120583",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 118,
+        "dailyTransactionCount": 462,
+        "timestamp": "1743208439",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 82,
+        "dailyTransactionCount": 380,
+        "timestamp": "1743293497",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 147,
+        "dailyTransactionCount": 508,
+        "timestamp": "1743381487",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 131,
+        "dailyTransactionCount": 436,
+        "timestamp": "1743472323",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 61,
+        "dailyTransactionCount": 256,
+        "timestamp": "1743552859",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 97,
+        "dailyTransactionCount": 384,
+        "timestamp": "1743639133",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 352,
+        "timestamp": "1743724989",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 300,
+        "timestamp": "1743812267",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 40,
+        "dailyTransactionCount": 134,
+        "timestamp": "1743899313",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 71,
+        "dailyTransactionCount": 570,
+        "timestamp": "1743988009",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 510,
+        "timestamp": "1744072161",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 60,
+        "dailyTransactionCount": 328,
+        "timestamp": "1744157681",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 84,
+        "dailyTransactionCount": 676,
+        "timestamp": "1744244541",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 61,
+        "dailyTransactionCount": 408,
+        "timestamp": "1744332705",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 52,
+        "dailyTransactionCount": 170,
+        "timestamp": "1744420881",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 352,
+        "timestamp": "1744509163",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 60,
+        "dailyTransactionCount": 334,
+        "timestamp": "1744589649",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 64,
+        "dailyTransactionCount": 314,
+        "timestamp": "1744682169",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 63,
+        "dailyTransactionCount": 198,
+        "timestamp": "1744762003",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 68,
+        "dailyTransactionCount": 260,
+        "timestamp": "1744850217",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 89,
+        "dailyTransactionCount": 310,
+        "timestamp": "1744939277",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 53,
+        "dailyTransactionCount": 208,
+        "timestamp": "1745021677",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 70,
+        "dailyTransactionCount": 250,
+        "timestamp": "1745107987",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 47,
+        "dailyTransactionCount": 144,
+        "timestamp": "1745194739",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 51,
+        "dailyTransactionCount": 206,
+        "timestamp": "1745282175",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 72,
+        "dailyTransactionCount": 510,
+        "timestamp": "1745366445",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 60,
+        "dailyTransactionCount": 360,
+        "timestamp": "1745452835",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 75,
+        "dailyTransactionCount": 230,
+        "timestamp": "1745543357",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 98,
+        "dailyTransactionCount": 396,
+        "timestamp": "1745627933",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 44,
+        "dailyTransactionCount": 176,
+        "timestamp": "1745713191",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 109,
+        "dailyTransactionCount": 458,
+        "timestamp": "1745798411",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 238,
+        "timestamp": "1745885903",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 236,
+        "timestamp": "1745972409",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 310,
+        "timestamp": "1746071019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 151,
+        "dailyTransactionCount": 522,
+        "timestamp": "1746148593",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 182,
+        "dailyTransactionCount": 574,
+        "timestamp": "1746231331",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 53,
+        "dailyTransactionCount": 450,
+        "timestamp": "1746321847",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 358,
+        "timestamp": "1746408667",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 50,
+        "dailyTransactionCount": 372,
+        "timestamp": "1746492209",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 68,
+        "dailyTransactionCount": 598,
+        "timestamp": "1746577209",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 68,
+        "dailyTransactionCount": 510,
+        "timestamp": "1746663397",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 86,
+        "dailyTransactionCount": 1298,
+        "timestamp": "1746749341",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 81,
+        "dailyTransactionCount": 968,
+        "timestamp": "1746835773",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 70,
+        "dailyTransactionCount": 1116,
+        "timestamp": "1746921667",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 63,
+        "dailyTransactionCount": 892,
+        "timestamp": "1747008019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 80,
+        "dailyTransactionCount": 694,
+        "timestamp": "1747097201",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 83,
+        "dailyTransactionCount": 924,
+        "timestamp": "1747182151",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 90,
+        "dailyTransactionCount": 980,
+        "timestamp": "1747267413",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 1328,
+        "timestamp": "1747356259",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 794,
+        "timestamp": "1747440233",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 57,
+        "dailyTransactionCount": 590,
+        "timestamp": "1747527363",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 74,
+        "dailyTransactionCount": 842,
+        "timestamp": "1747613541",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 80,
+        "dailyTransactionCount": 678,
+        "timestamp": "1747699711",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 942,
+        "timestamp": "1747785895",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 67,
+        "dailyTransactionCount": 880,
+        "timestamp": "1747872121",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 88,
+        "dailyTransactionCount": 1704,
+        "timestamp": "1747958609",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 1048,
+        "timestamp": "1748045247",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 48,
+        "dailyTransactionCount": 710,
+        "timestamp": "1748131471",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 55,
+        "dailyTransactionCount": 656,
+        "timestamp": "1748220213",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 87,
+        "dailyTransactionCount": 814,
+        "timestamp": "1748304713",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 70,
+        "dailyTransactionCount": 1054,
+        "timestamp": "1748391287",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 65,
+        "dailyTransactionCount": 1174,
+        "timestamp": "1748476989",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 67,
+        "dailyTransactionCount": 938,
+        "timestamp": "1748563995",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 68,
+        "dailyTransactionCount": 628,
+        "timestamp": "1748649681",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 43,
+        "dailyTransactionCount": 630,
+        "timestamp": "1748736053",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 434,
+        "timestamp": "1748824293",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 95,
+        "dailyTransactionCount": 812,
+        "timestamp": "1748909799",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 71,
+        "dailyTransactionCount": 1026,
+        "timestamp": "1748996177",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 71,
+        "dailyTransactionCount": 1176,
+        "timestamp": "1749083579",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 1190,
+        "timestamp": "1749168501",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 572,
+        "timestamp": "1749254603",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 59,
+        "dailyTransactionCount": 582,
+        "timestamp": "1749341501",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 35,
+        "dailyTransactionCount": 394,
+        "timestamp": "1749428765",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 37,
+        "dailyTransactionCount": 952,
+        "timestamp": "1749514563",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 1854,
+        "timestamp": "1749600481",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 55,
+        "dailyTransactionCount": 2044,
+        "timestamp": "1749686855",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 56,
+        "dailyTransactionCount": 1640,
+        "timestamp": "1749772827",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 50,
+        "dailyTransactionCount": 1602,
+        "timestamp": "1749860015",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 60,
+        "dailyTransactionCount": 926,
+        "timestamp": "1749945661",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 54,
+        "dailyTransactionCount": 442,
+        "timestamp": "1750035823",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 51,
+        "dailyTransactionCount": 1042,
+        "timestamp": "1750118509",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 46,
+        "dailyTransactionCount": 906,
+        "timestamp": "1750205287",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 46,
+        "dailyTransactionCount": 534,
+        "timestamp": "1750292841",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 40,
+        "dailyTransactionCount": 472,
+        "timestamp": "1750378203",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 43,
+        "dailyTransactionCount": 630,
+        "timestamp": "1750466083",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 57,
+        "dailyTransactionCount": 482,
+        "timestamp": "1750560101",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 51,
+        "dailyTransactionCount": 370,
+        "timestamp": "1750637815",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 46,
+        "dailyTransactionCount": 268,
+        "timestamp": "1750730297",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 48,
+        "dailyTransactionCount": 212,
+        "timestamp": "1750813113",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 42,
+        "dailyTransactionCount": 164,
+        "timestamp": "1750901449",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 47,
+        "dailyTransactionCount": 276,
+        "timestamp": "1750982567",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 48,
+        "dailyTransactionCount": 214,
+        "timestamp": "1751077785",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 52,
+        "dailyTransactionCount": 194,
+        "timestamp": "1751168815",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 40,
+        "dailyTransactionCount": 240,
+        "timestamp": "1751243189",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 65,
+        "dailyTransactionCount": 360,
+        "timestamp": "1751329855",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 41,
+        "dailyTransactionCount": 206,
+        "timestamp": "1751423673",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 44,
+        "dailyTransactionCount": 242,
+        "timestamp": "1751502143",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 59,
+        "dailyTransactionCount": 318,
+        "timestamp": "1751587995",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 88,
+        "dailyTransactionCount": 466,
+        "timestamp": "1751678373",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 56,
+        "dailyTransactionCount": 382,
+        "timestamp": "1751770069",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 59,
+        "dailyTransactionCount": 364,
+        "timestamp": "1751850237",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 44,
+        "dailyTransactionCount": 296,
+        "timestamp": "1751934441",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 59,
+        "dailyTransactionCount": 488,
+        "timestamp": "1752020837",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 95,
+        "dailyTransactionCount": 1140,
+        "timestamp": "1752106917",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 70,
+        "dailyTransactionCount": 1216,
+        "timestamp": "1752192931",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 67,
+        "dailyTransactionCount": 1622,
+        "timestamp": "1752278605",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 53,
+        "dailyTransactionCount": 578,
+        "timestamp": "1752366117",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 816,
+        "timestamp": "1752451995",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 83,
+        "dailyTransactionCount": 1190,
+        "timestamp": "1752538229",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 74,
+        "dailyTransactionCount": 1418,
+        "timestamp": "1752624019",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 65,
+        "dailyTransactionCount": 1440,
+        "timestamp": "1752710593",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 92,
+        "dailyTransactionCount": 1992,
+        "timestamp": "1752797601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 96,
+        "dailyTransactionCount": 1380,
+        "timestamp": "1752883457",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 88,
+        "dailyTransactionCount": 1122,
+        "timestamp": "1752973593",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 84,
+        "dailyTransactionCount": 1322,
+        "timestamp": "1753056449",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 100,
+        "dailyTransactionCount": 1910,
+        "timestamp": "1753142987",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 84,
+        "dailyTransactionCount": 3610,
+        "timestamp": "1753229807",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 2560,
+        "timestamp": "1753315595",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 60,
+        "dailyTransactionCount": 3288,
+        "timestamp": "1753401851",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 3306,
+        "timestamp": "1753488563",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 65,
+        "dailyTransactionCount": 904,
+        "timestamp": "1753574561",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 63,
+        "dailyTransactionCount": 470,
+        "timestamp": "1753661737",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 81,
+        "dailyTransactionCount": 916,
+        "timestamp": "1753747703",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 72,
+        "dailyTransactionCount": 1612,
+        "timestamp": "1753834309",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 77,
+        "dailyTransactionCount": 1328,
+        "timestamp": "1753921103",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 54,
+        "dailyTransactionCount": 790,
+        "timestamp": "1754007021",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 46,
+        "dailyTransactionCount": 2666,
+        "timestamp": "1754092887",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 42,
+        "dailyTransactionCount": 2148,
+        "timestamp": "1754180625",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 50,
+        "dailyTransactionCount": 2098,
+        "timestamp": "1754265661",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 52,
+        "dailyTransactionCount": 1734,
+        "timestamp": "1754352521",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 47,
+        "dailyTransactionCount": 2548,
+        "timestamp": "1754439189",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 42,
+        "dailyTransactionCount": 1728,
+        "timestamp": "1754525323",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 1588,
+        "timestamp": "1754612415",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 830,
+        "timestamp": "1754703947",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 82,
+        "dailyTransactionCount": 690,
+        "timestamp": "1754787219",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 68,
+        "dailyTransactionCount": 440,
+        "timestamp": "1754871271",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 66,
+        "dailyTransactionCount": 640,
+        "timestamp": "1754957043",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 570,
+        "timestamp": "1755043201",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 114,
+        "dailyTransactionCount": 594,
+        "timestamp": "1755129899",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 67,
+        "dailyTransactionCount": 470,
+        "timestamp": "1755218731",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 54,
+        "dailyTransactionCount": 468,
+        "timestamp": "1755304619",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 44,
+        "dailyTransactionCount": 190,
+        "timestamp": "1755389399",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 480,
+        "timestamp": "1755476419",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 64,
+        "dailyTransactionCount": 720,
+        "timestamp": "1755563043",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 494,
+        "timestamp": "1755649483",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 75,
+        "dailyTransactionCount": 504,
+        "timestamp": "1755735553",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 99,
+        "dailyTransactionCount": 620,
+        "timestamp": "1755821229",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 70,
+        "dailyTransactionCount": 634,
+        "timestamp": "1755907967",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 134,
+        "dailyTransactionCount": 516,
+        "timestamp": "1755995257",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 570,
+        "timestamp": "1756082057",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 82,
+        "dailyTransactionCount": 558,
+        "timestamp": "1756167083",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 468,
+        "timestamp": "1756258693",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 73,
+        "dailyTransactionCount": 274,
+        "timestamp": "1756340561",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 74,
+        "dailyTransactionCount": 388,
+        "timestamp": "1756427795",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 57,
+        "dailyTransactionCount": 334,
+        "timestamp": "1756513781",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 64,
+        "dailyTransactionCount": 282,
+        "timestamp": "1756599127",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 76,
+        "dailyTransactionCount": 512,
+        "timestamp": "1756685121",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 40,
+        "dailyTransactionCount": 442,
+        "timestamp": "1756771553",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 81,
+        "dailyTransactionCount": 1054,
+        "timestamp": "1756865979",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 354,
+        "timestamp": "1756948601",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 65,
+        "dailyTransactionCount": 480,
+        "timestamp": "1757030905",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 79,
+        "dailyTransactionCount": 520,
+        "timestamp": "1757125877",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 58,
+        "dailyTransactionCount": 218,
+        "timestamp": "1757204083",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 55,
+        "dailyTransactionCount": 228,
+        "timestamp": "1757294275",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 254,
+        "timestamp": "1757391025",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 50,
+        "dailyTransactionCount": 254,
+        "timestamp": "1757464331",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 72,
+        "dailyTransactionCount": 426,
+        "timestamp": "1757553011",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 112,
+        "dailyTransactionCount": 508,
+        "timestamp": "1757637631",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 92,
+        "dailyTransactionCount": 570,
+        "timestamp": "1757722481",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 88,
+        "dailyTransactionCount": 392,
+        "timestamp": "1757808183",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 74,
+        "dailyTransactionCount": 346,
+        "timestamp": "1757899407",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 62,
+        "dailyTransactionCount": 292,
+        "timestamp": "1757981743",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 69,
+        "dailyTransactionCount": 280,
+        "timestamp": "1758076371",
+        "totalPoolCount": 1
+      },
+      {
+        "dailyActiveUsers": 81,
+        "dailyTransactionCount": 564,
+        "timestamp": "1758155155",
+        "totalPoolCount": 1
+      }
+    ]
+  }
+}
