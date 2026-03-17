@@ -64,9 +64,9 @@ The following variables are included in the data files:
 - Dummy Variable For Tokenization Events: `Events`.
 
 `Events` variable covers:
--- 04/26/2024: Renzo Protocol tokenization announcement,
--- 04/29/2024: EigenLayer tokenization details are announced,
--- 04/30/2024: REZ token was generated,
--- 10/01/2024: EIGEN token was generated.
+- 04/26/2024: Renzo Protocol tokenization announcement,
+- 04/29/2024: EigenLayer tokenization details are announced,
+- 04/30/2024: REZ token was generated,
+- 10/01/2024: EIGEN token was generated.
 
 ---
