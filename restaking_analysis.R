@@ -1,6 +1,7 @@
 # Core
 library(readxl)
 library(dplyr)
+library(strucchange)
 
 # Time series & econometrics
 library(lmtest)       # Granger causality
@@ -79,6 +80,11 @@ rf_model <- randomForest(
   ntree = 1000
 )
 
+# Chow-type structural break test
+model_base <- lm(Revenue ~ TVL0 + TVL1 + TVL2 + ezETH_Yield + APY + Premium + ETH + FGI + Tx_Fee + ezETH_Share, data = df)
+model_break <- lm(Revenue ~ TVL0 + TVL1 + TVL2 + ezETH_Yield + APY + Premium + ETH + FGI + Tx_Fee + ezETH_Share + Events:Events, data = df)
+chow_test <- anova(model_base, model_break)
+print(chow_test)
 # Variable importance
 importance(rf_model)
 varImpPlot(rf_model, type = 1)
