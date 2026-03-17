@@ -14,8 +14,7 @@ RestakingDynamics/
 │
 ├── README.md
 │
-├── analysis_code/
-│   └── restaking_analysis.R
+├── restaking_analysis.R                    # Code to analyze the data
 │
 └── data/
     └── raw_data/                           # This folder includes multiple raw data files
