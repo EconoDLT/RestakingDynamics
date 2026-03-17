@@ -43,35 +43,28 @@ The script is written in R. Fundamental functions are:
 ### Data Overview
 
 The dataset covers:
-- 53 bridge protocols,
-- 15 on-chain lending protocols,
-- 9 blockchains (three groups: Ethereum (L1), L2, AltL1).
-Protocol availability across blockchains is shown in `protocol_availability.png`.
-Data has a daily frequency and covers the period: 17 October 2022 to 01 January 2025. The start date is when the bridge volume data was available on DeFiLlama for the first time.
+- Eigenlayer data on the Ethereum network,
+- Renzo Protocol data across Ethereum, Arbitrum, Base, Linea, Blast, and Mode networks.
+Data has a daily frequency and covers the period: 22 January 2022 to 17 April 2025. The start date is the first day when Renzo Protocol's LRT (ezETH) is deployed on a layer-2 network.
 
 ### Raw Data
 
 Separate raw data files are uploaded to the `data/raw_data` folder. The source of each data file is written in the folder names.
-E.g.: `MultiChainLending/Data/RawData/Bridge_Volume_From_DeFiLlama/bridge_volumes_arbitrum_one.csv`
+E.g.: `/raw_data/restaking_protocool_data_from_the_graph/renzo_arbitrum.json`
 
 ### Processed Data
 
-The analyzed dataset is composed of four files:
-- `ethereum_lending.csv`
-- `L2_lending.csv`
-- `altL1_lending.csv`
-- `aggregated_lending.csv`
+The analyzed dataset is `restaking_processed_data.xlsx`.
 
 The following variables are included in the data files:
-- Core Financial Metrics: `TVL`, `Revenue`, `BridgeVolume`, `Liquidation`, `Withdraw`, `Deposit`, `ActiveUsers`.
-- Yield Data: `ETH_APY`, `Stablecoin_APY`.
-- Dummy Variables For Events: `BridgeIntegrations`, `BridgeHack`, `Mainnet`.
+- Core Financial Metrics: `Revenue` (Total revenue of Renzo Protocol), `TVL0`, (EigenLayer TVL), `TVL1` (Renzo TVL on Ethereum), `TVL2` (Renzo TVL on L2s),   `Share` (ezETH share in the liquid restaking market), `Premium` (ezETH premium variable), `ETH` (ETH price).
+- Yield Data: `Yield` (ezETH yield rate), `APY` (stETH APY as the benchmark DeFi yield).
 - Market Sentiment: `FGI` (Fear and Greed Index).
-- Network Control Variables: `volETH` (ETH Volatility), `GasPrice`.
-- Credit Risk Parameter: `CER` (Credit Expansion Ratio).
-
-``
-CER = dailyBorrowUSD / dailyDepositUSD
-``
+- Network Control Variables: `GasPrice`.
+- Dummy Variable For Tokenization Events: `Events`.
+-- 04/26/2024: Renzo Protocol tokenization announcement,
+-- 04/29/2024: EigenLayer tokenization details are announced,
+-- 04/30/2024: REZ token was generated,
+-- 10/01/2024: EIGEN token was generated.
 
 ---
