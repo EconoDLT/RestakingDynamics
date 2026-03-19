@@ -39,6 +39,8 @@ The script is written in R. Fundamental functions are:
 - `residuals()` to see the regression residuals.
 - `vif()` to see the variance inflation factor, to avoid multicollinearity.
 
+**Input:** `restaking_processed_data.xlsx`
+
 ---
 
 ## 2 — Data
