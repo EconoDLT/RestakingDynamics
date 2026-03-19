@@ -1,19 +1,14 @@
-# Financial Dynamics of Liquid Restaking
+# Financial Dynamics and Interconnected Risk of Liquid Restaking
 **DeFi, Restaking Protocols, and Layered Risks across Interconnected Protocols and Blockchains**
 
-This repository contains the collected data, the R code used, further explanations and clarifications for the research paper that analyzes the dynamics of the liquid restaking market.
+This repository contains the collected data, the R code used, further explanations and clarifications for the following research paper that analyzes the dynamics of the liquid restaking market:
+
+[CITATION + arXiv Link]
+
+[ABSTRACT (Italic)
+KEY WORDS (Bold)]
 
 **Related Skills/Knowledge:** Distributed Systems, Econometrics, Financial Modelling, Crypto-Economic Security (Part of Network Security for Blockchains), Risk Analysis, Attack Simulation.
-
----
-
-## [REDACTED - PAPER TITLE]
-
-`{CITATION]`
-
-[ABSTRACT - KEY WORDS]
-
----
 
 ## Repository Structure
 
