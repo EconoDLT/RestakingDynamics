@@ -11,6 +11,8 @@ H. O. Sevim, â€œFinancial Dynamics and Interconnected Risk of Liquid Restaking,â
 
 **Related Skills/Knowledge:** Distributed Systems, Econometrics, Financial Modelling, Crypto-Economic Security (Part of Network Security for Blockchains), Risk Analysis, Attack Simulation.
 
+---
+
 ## Repository Structure
 
 ```
