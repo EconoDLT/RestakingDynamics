@@ -77,5 +77,3 @@ The following variables are included in the data files:
 - 10/01/2024: EIGEN token was generated.
 
 ---
-
-Contact for more details and clarifications: hasretozan.sevim@unicatt.it
