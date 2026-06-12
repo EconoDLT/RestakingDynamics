@@ -22,7 +22,6 @@ RestakingDynamics/
 ├── restaking_analysis.R                    # Code to analyze the data
 │
 └── data/
-    └── raw_data/                           # This folder includes multiple raw data files
     └── processed_data/                     # This file is required to run the script
         └── restaking_processed_data.xlsx
 ```
@@ -53,11 +52,6 @@ The dataset covers:
 - Eigenlayer data on the Ethereum network,
 - Renzo Protocol data across Ethereum, Arbitrum, Base, Linea, Blast, and Mode networks.
 Data has a daily frequency and covers the period: 22 January 2022 to 17 April 2025. The start date is the first day when Renzo Protocol's LRT (ezETH) is deployed on a layer-2 network.
-
-### Raw Data
-
-Separate raw data files are uploaded to the `data/raw_data` folder. The source of each data file is written in the folder names.
-E.g.: `/raw_data/restaking_protocool_data_from_the_graph/renzo_arbitrum.json`
 
 ### Processed Data
 
