@@ -70,4 +70,8 @@ The following variables are included in the data files:
 - 04/30/2024: REZ token was generated,
 - 10/01/2024: EIGEN token was generated.
 
+### Raw Data Request
+
+Data can be shared upon request as long as the sharing is compliant with the terms and conditions of the data sources.
+
 ---
