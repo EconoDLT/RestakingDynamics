@@ -72,6 +72,6 @@ The following variables are included in the data files:
 
 ### Raw Data Request
 
-Data can be shared upon request as long as the sharing is compliant with the terms and conditions of the data sources.
+Data can be shared upon request as long as sharing is compliant with the terms and conditions of the data sources.
 
 ---
