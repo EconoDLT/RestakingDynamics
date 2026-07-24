@@ -1,0 +1,45 @@
+with day_bounds AS (
+    SELECT dt as day_start,
+           dt + interval '1' day as day_end
+      FROM
+    UNNEST(sequence(date '2024-01-01', current_date, INTERVAL '1' DAY)) t (dt)
+), data as (
+    select cast(amount as double) / cast(ezETHMinted as double) AS rate,
+           evt_block_time,
+           row_number() over (partition by date_trunc('day', evt_block_time) order by evt_block_time desc) AS rn
+      from renzo_ethereum.restakemanager_evt_deposit 
+     where token = 0x0000000000000000000000000000000000000000
+       and ezETHMinted <> 0
+), intervals as (
+    select (rate - lag(rate) over (order by evt_block_time)) / rate * 365 * 86400 / date_diff('second', lag(evt_block_time) over (order by evt_block_time), evt_block_time) as value,
+           evt_block_time as end_date,
+           lag(evt_block_time) over (order by evt_block_time) as begin_date
+      from data
+     where rn = 1
+), overlaps AS (
+  SELECT 
+      d.day_start,
+      GREATEST(i.begin_date, d.day_start)       AS overlap_start,
+      LEAST(i.end_date,   d.day_end)            AS overlap_end,
+      i.value
+  FROM intervals i
+  JOIN day_bounds d
+    ON i.begin_date < d.day_end 
+   AND i.end_date   > d.day_start
+), weighted AS (
+  SELECT
+      day_start,
+      value,
+      to_unixtime(overlap_end) - to_unixtime(overlap_start) as seconds_inside
+  FROM overlaps
+), yield_data as (
+    SELECT day_start AS ts_day,
+           SUM(value * seconds_inside) / NULLIF(SUM(seconds_inside), 0) as yield_rate
+      FROM weighted
+     GROUP BY 1
+)
+select ts_day,
+       yield_rate,
+       AVG(yield_rate) OVER (ORDER BY ts_day ROWS BETWEEN 7 PRECEDING AND CURRENT ROW) AS ma7_yield_rate,
+       AVG(yield_rate) OVER (ORDER BY ts_day ROWS BETWEEN 30 PRECEDING AND CURRENT ROW) AS ma30_yield_rate
+  from yield_data
